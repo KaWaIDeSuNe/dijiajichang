@@ -9,3 +9,4 @@
 主观评价:直连机场，1元100G，流媒体速度拉满，解锁拉满，缺点是延迟较高，推荐给经常观看流媒体的用户。
 
 ![示例图片](https://lh5.googleusercontent.com/VNxi5xzEaMlWFh92tCtStk88-SUrSBQdGA75ht0h8-gpSsjfdswzyg6pMijtG5gkMVlqVQWnDlw3ryknEWrkjqU3NS84MP4IZ1aa2HA9icPpwBESEr43ZnIkPyX7PBGj6g=w1280)
+![image](https://github.com/KaWaIDeSuNe/dijiajichang/assets/34272737/97c1482c-136b-4799-8ebe-df6cf681b9f8)
