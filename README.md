@@ -2,6 +2,8 @@
 🚀推荐月10以下的优质低价机场
 本文主要推荐几款价格低廉的机场,性价比超高,月均都不足10元. 温馨提醒您：任何机场都有跑路的风险，推荐购买月付，以降低风险（本消息不针对任何机场）。本人的电报频道:[低价机场推荐](https://t.me/dijiajichangtuijian)
 本人的博客地址:[点击进入 ](https://sites.google.com/view/dijiajichang)
+如果您对于节点稳定性或性能上有更高的需求，请参考我的另一篇文档[性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
+
 
 ### 牛逼机场
 
@@ -43,9 +45,17 @@
 淘气兔官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
 
 飞兔云官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
+
 机场特色:签到送流量
 
 主观评价:全中转节点，性价比高，稳定性好，解锁优秀，淘气兔和飞兔云为同一个机场主，飞兔云单价比淘气兔更高些，但也多了很多冷门节点。
 
 
 ![套餐价格](https://github.com/KaWaIDeSuNe/dijiajichang/assets/34272737/accbdfd9-9a7b-4354-8dc2-e965da4f5708)
+
+### 三毛机场
+官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
+
+主观评价:从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
+
+![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
