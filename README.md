@@ -62,3 +62,14 @@
 主观评价:直连机场，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
 
 ![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
+
+
+---
+
+[**star-history.com**](https://star-history.com), **the missing GitHub star history graph of GitHub repos.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+</picture>
