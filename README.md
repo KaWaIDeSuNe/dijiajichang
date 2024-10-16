@@ -10,7 +10,7 @@
 ---
 ### 牛逼机场
 
-官网地址:[点击进入](https://fast.6bcloud.top/#/register?code=LEgSeDmU)
+官网地址:[点击进入](https://fast.6bcloud.top/#/register?code=5DKFf0U5)
 
 优惠码:牛逼机场666
 
