@@ -100,6 +100,10 @@ MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge
 
 安卓下载：[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
+iOS：apple store搜索Shadowrocket下载
+
+---
+
 如果您有任何需求、问题或建议，欢迎提出。
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)
