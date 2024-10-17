@@ -73,9 +73,6 @@
 ![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
 
 
-如果您有任何需求、问题或建议，欢迎提出。
-
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)
 
 ## 购买指导总结
 方便各位快速筛选定位
@@ -102,6 +99,10 @@
 MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
 安卓下载：[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+
+如果您有任何需求、问题或建议，欢迎提出。
+
+如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)
    
 ## Star 历史
 
