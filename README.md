@@ -77,7 +77,7 @@
 
 机场特色:50G流量免费试用
 
-主观评价:开了好些年的一家直连机场，1元100G，性价比不错。
+主观评价:开了好些年的一家机场，直连套餐1元100G，性价比不错。
 
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
 
