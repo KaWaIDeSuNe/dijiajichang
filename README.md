@@ -152,7 +152,7 @@
     2)**中转机场：** 廉价机场、阿拉丁、淘气兔、山水云、CFCloud
 
     3)**直连+中转机场：** 牛逼机场
-    
+---
 ## 客户端软件下载
 MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
