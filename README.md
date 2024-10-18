@@ -16,6 +16,7 @@
 
 主观评价:套餐为中转+直连节点，价格低，延迟低，速度快，推荐需要大流量的用户购买月付套餐。
 
+套餐价格:
 ![套餐价格](https://github.com/KaWaIDeSuNe/dijiajichang/assets/34272737/41a7d9b7-2de3-4a08-9591-977f4af985df)
 
 ---
@@ -28,6 +29,7 @@
 
 主观评价:类似上面牛逼机场，套餐全中转节点，价格低，延迟低，速度快，前面一段时间涨了一次价格，即使这样也还不错，还有免费试用。
 
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/07e22b26-f583-4568-be68-10fea1f4cc2f)
 ---
 ### 三、阿拉丁(30半年付/月50G)
@@ -38,6 +40,7 @@
 
 主观评价:全中转节点，稳定性一般，前面一段时间也涨了价，目前只有季付和半年套餐有性价比，如果经常在03:00到09:00之间科学上网，可以试下这个。
 
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/56556ce9-962f-4467-8cb8-cd3166aa02f6)
 
 ---
@@ -51,7 +54,7 @@
 
 主观评价:全中转节点，性价比高，稳定性好，解锁优秀，我个人使用一年多了，大部分时间全部节点都在线，特殊时期也没受到影响，非常不错。淘气兔和飞兔云为同一个机场主，飞兔云单价比淘气兔更高些，但也多了很多冷门节点。
 
-
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/23554b5d-8115-40b8-9fed-5ac22ba7e61e)
 ![套餐价格](https://github.com/user-attachments/assets/88f36705-24ef-4cc2-83a5-66140439e60f)
 
@@ -61,6 +64,7 @@
 
 主观评价:直连机场，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
 
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
 
 
@@ -70,6 +74,8 @@
 官网地址:[点击进入](https://bbb.ssy614.com/#/register?code=mXnyRSJX)
 
 主观评价:全中转，50多个地区的节点，流媒体/ChatGPT全部解锁，4.99元100G，性价比很高。
+
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
 ---
 ## 七、NanoCloud(1/月100G)
@@ -79,6 +85,7 @@
 
 主观评价:开了好些年的一家机场，直连套餐1元100G，性价比不错。
 
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
 ---
 ## 八、CFCloud(3/月100G)
@@ -88,6 +95,7 @@
 
 主观评价:全中转节点，3元100G中转套餐，稳定性和速度都非常不错，有点牛逼。
 
+套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/0268a35e-9fc1-4619-aff3-ff15b6b54704)
 ---
 ## 购买指导总结
