@@ -88,8 +88,6 @@
 
 主观评价:全中转节点，3元100G中转套餐，稳定性和速度都非常不错，有点牛逼。
 
-<img width="1416" alt="image" src="https://github.com/user-attachments/assets/0268a35e-9fc1-4619-aff3-ff15b6b54704">
-
 ![套餐价格](https://github.com/user-attachments/assets/0268a35e-9fc1-4619-aff3-ff15b6b54704)
 ---
 ## 购买指导总结
