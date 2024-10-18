@@ -69,6 +69,9 @@
 ![套餐价格](https://github.com/user-attachments/assets/23554b5d-8115-40b8-9fed-5ac22ba7e61e)
 ![套餐价格](https://github.com/user-attachments/assets/88f36705-24ef-4cc2-83a5-66140439e60f)
 
+测速与解锁情况:
+![淘气兔测速与解锁上海电信@1Gbps (8)](https://github.com/user-attachments/assets/78200b30-af98-4006-8b0a-3ad83979793e)
+
 线路分析:
 ![淘气兔线路分析](https://github.com/user-attachments/assets/9eea3365-0ebb-4b8f-b5b5-96a0e5cb4703)
 
