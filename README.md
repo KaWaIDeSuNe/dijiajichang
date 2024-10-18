@@ -19,6 +19,9 @@
 套餐价格:
 ![套餐价格](https://github.com/KaWaIDeSuNe/dijiajichang/assets/34272737/41a7d9b7-2de3-4a08-9591-977f4af985df)
 
+线路分析:
+![牛逼机场线路分析](https://github.com/user-attachments/assets/68db8880-fd2b-4e3c-bd05-fcb1faf3cec2)
+
 ---
 
 ## 二、廉价机场(6/月500G)
@@ -31,6 +34,14 @@
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/07e22b26-f583-4568-be68-10fea1f4cc2f)
+
+测速与解锁情况:
+![廉价机场测速](https://github.com/user-attachments/assets/460b08dd-13d9-4daa-8388-a1ae9c9c921a)
+
+
+线路分析:
+![廉价机场线路分析](https://github.com/user-attachments/assets/d3b7010c-3108-4aff-953e-e88c23a40df4)
+
 ---
 ### 三、阿拉丁(30半年付/月50G)
 
@@ -58,6 +69,9 @@
 ![套餐价格](https://github.com/user-attachments/assets/23554b5d-8115-40b8-9fed-5ac22ba7e61e)
 ![套餐价格](https://github.com/user-attachments/assets/88f36705-24ef-4cc2-83a5-66140439e60f)
 
+线路分析:
+![淘气兔线路分析](https://github.com/user-attachments/assets/9eea3365-0ebb-4b8f-b5b5-96a0e5cb4703)
+
 ---
 ## 五、三毛机场(3年付/月5G)
 官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
@@ -77,6 +91,7 @@
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
+
 ---
 ## 七、NanoCloud(1/月100G)
 官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
@@ -87,6 +102,7 @@
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
+
 ---
 ## 八、CFCloud(3/月100G)
 官网地址:[点击进入](https://cfyun.top/#/login?code=q6ZOjdO4)
@@ -97,6 +113,11 @@
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/0268a35e-9fc1-4619-aff3-ff15b6b54704)
+
+测速与解锁情况:
+![cf机场测速与解锁](https://github.com/user-attachments/assets/c503b37e-84dd-41ed-ad46-9ae1ccf5fa69)
+
+
 ---
 ## 购买指导总结
 方便各位快速筛选定位
@@ -119,7 +140,11 @@
    3)**需要不限时按量付费套餐**：
    牛逼机场(9.9元/200G)、牛逼机场(32元/2000G)、淘气兔(6元/50G)、淘气兔(10元/100G)、飞兔云(29.9元/100G)、飞兔云(59.9元/200G)、三毛机场(25.99元/1000G)、CFCloud(6/100G/月)
 2. **有免费的流量试用：** 廉价机场(20G)、NanoCloud(50G)、CFCloud(5G)
-
+3.  **机场连接方式：**
+   1)**直连机场：** 三毛机场、NanoCloud
+   2)**中转机场：** 廉价机场、阿拉丁、淘气兔、山水云、CFCloud
+   2)**中转+中转机场：** 牛逼机场
+    
 ## 客户端软件下载
 MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
