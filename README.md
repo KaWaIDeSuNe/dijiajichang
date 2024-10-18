@@ -82,7 +82,7 @@
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
 ---
 ## 八、CFCloud(3/月100G)
-官网地址:[点击进入](https:/cfyun.top/#/login?code=q6ZOjdO4)
+官网地址:[点击进入](https://cfyun.top/#/login?code=q6ZOjdO4)
 
 机场特色:5G流量免费试用
 
