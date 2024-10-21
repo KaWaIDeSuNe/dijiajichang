@@ -55,19 +55,16 @@
 ![套餐价格](https://github.com/user-attachments/assets/56556ce9-962f-4467-8cb8-cd3166aa02f6)
 
 ---
-## 四、淘气兔(68年付/月168G) OR 飞兔云(98年付/月98G)
+## 四、淘气兔(6/月100G) 
 
-淘气兔官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
-
-飞兔云官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
+官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
 
 机场特色:签到送流量
 
-主观评价:全中转节点，性价比高，稳定性好，解锁优秀，我个人使用一年多了，大部分时间全部节点都在线，特殊时期也没受到影响，非常不错。淘气兔和飞兔云为同一个机场主，飞兔云单价比淘气兔更高些，但也多了很多冷门节点。
+主观评价:全中转节点，性价比高，稳定性好，解锁优秀，我个人使用一年多了，大部分时间全部节点都在线，特殊时期也没受到影响，非常不错。
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/23554b5d-8115-40b8-9fed-5ac22ba7e61e)
-![套餐价格](https://github.com/user-attachments/assets/88f36705-24ef-4cc2-83a5-66140439e60f)
 
 测速与解锁情况:
 ![淘气兔测速与解锁上海电信@1Gbps (8)](https://github.com/user-attachments/assets/78200b30-af98-4006-8b0a-3ad83979793e)
