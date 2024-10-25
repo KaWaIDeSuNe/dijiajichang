@@ -45,7 +45,7 @@
 ![廉价机场线路分析](https://github.com/user-attachments/assets/d3b7010c-3108-4aff-953e-e88c23a40df4)
 
 ---
-### 三、阿拉丁(30半年付/月50G)
+## 三、阿拉丁(30半年付/月50G)
 
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
