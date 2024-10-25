@@ -16,7 +16,8 @@
 
 套餐价格:
 
-![套餐价格](https://github.com/user-attachments/assets/194f14dc-10a1-46ac-951a-9c465ec0f657)
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/f4bb2aa3-c559-4d68-9adf-60d3e283022f">
+
 
 线路分析:
 ![牛逼机场线路分析](https://github.com/user-attachments/assets/68db8880-fd2b-4e3c-bd05-fcb1faf3cec2)
@@ -128,7 +129,7 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-200G流量)：
    
-   **2块/月以下**：牛逼机场(24年付/200G/月)、三毛机场(9.99年付/100G/月)、NanoCloud(1元/100G)
+   **2块/月以下**：牛逼机场(21.99年付/200G/月)、三毛机场(9.99年付/100G/月)、NanoCloud(1元/100G)
    
    **2-5块/月**：廉价机场(10季付/200G/月)、阿拉丁(30半年付/50G/月)、山水云(3.99/50G/月)、山水云(4.99/100G/月)、CFCloud(3/100G/月)
    
