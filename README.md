@@ -122,6 +122,18 @@
 测速与解锁情况:
 ![cf机场测速与解锁](https://github.com/user-attachments/assets/c503b37e-84dd-41ed-ad46-9ae1ccf5fa69)
 
+--
+## 九、星河云(1/月16G)
+官网地址:[点击进入](https://svip.xingheyun.lol/register?code=p8jChMGP)
+
+主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
+
+套餐价格:
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/96ff4e08-250b-4db4-a35d-9c12b75ed257">
+
+测速与解锁情况:
+![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
+
 
 ---
 ## 购买指导总结
@@ -140,7 +152,7 @@
      牛逼机场(6.9元/1000G/月)、牛逼机场(14元/3000G/月)、廉价机场(6元/500G/月)、廉价机场(8元/1000G/月)、淘气兔(35元/800G/月)、三毛机场(5元/1200G/月)、三毛机场(8元/无限流量/月)、CFCloud(10/500G/月)
    
    3)**需要小流量月付套餐**(每月50G以下)：
-   三毛机场(3元年付/5G/月)
+   三毛机场(3元年付/5G/月)、星河云(1元/16G/月)
    
    3)**需要不限时按量付费套餐**：
    牛逼机场(12.9元/200G)、牛逼机场(38元/2000G)、淘气兔(6元/50G)、淘气兔(10元/100G)、三毛机场(25.99元/1000G)、CFCloud(6/100G)
