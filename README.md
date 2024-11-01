@@ -14,6 +14,8 @@
 
 主观评价:套餐为中转+直连节点，价格低，节点多，速度快，推荐需要大流量的用户购买月付套餐。
 
+过境线路：青岛联通（中转）、直连
+
 套餐价格:
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/c4fee380-f04c-47af-b8ae-0d4e1c69ece2">
