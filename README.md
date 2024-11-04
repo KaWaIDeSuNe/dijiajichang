@@ -139,6 +139,14 @@
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
 
+测速与解锁情况:
+![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
+![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
+
+
+线路分析:
+![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
+
 ---
 ## 八、CFCloud(3/月100G)
 官网地址:[点击进入](https://cfyun.top/#/login?code=q6ZOjdO4)
