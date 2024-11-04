@@ -106,7 +106,7 @@
 ---
 ## 六、山水云(4.99/月100G)
 
-官网地址:[点击进入](https://bbb.ssy614.com/#/register?code=mXnyRSJX)
+官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
 主观评价:全中转，50多个地区的节点，流媒体/ChatGPT全部解锁，4.99元100G，性价比很高。
 
