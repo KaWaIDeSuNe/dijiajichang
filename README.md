@@ -5,6 +5,8 @@
 
 如果对于节点稳定性或性能上有更高的需求，请参考我的另一篇文档[性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
 
+如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
+
 ---
 ## 机场限时优惠
 
@@ -243,8 +245,6 @@ iOS：apple store搜索Shadowrocket下载
 ---
 
 如果您有任何需求、问题或建议，欢迎提出。
-
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
    
 ## Star 历史
 
