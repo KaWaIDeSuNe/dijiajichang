@@ -1,7 +1,7 @@
 # 低价机场推荐
 🚀推荐月10以下的优质低价机场
 
-![](https://komarev.com/ghpvc/?username=dijiajichang)
+
 
 本文主要推荐几款价格低廉的机场,性价比超高,月均都不足10元. 温馨提醒：任何机场都有跑路的风险，推荐购买月付，以降低风险（本消息不针对任何机场）。本人的电报频道:[低价机场推荐](https://t.me/dijiajichangtuijian)
 
@@ -10,7 +10,7 @@
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
 
 
-
+![](https://komarev.com/ghpvc/?username=dijiajichang)
 ---
 ## 机场限时优惠
 
