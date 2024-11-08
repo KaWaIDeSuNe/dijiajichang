@@ -251,6 +251,9 @@ iOS：apple store搜索Shadowrocket下载
 
 ![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/dijiajichang&type=Date)
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+![GitHub 统计](https://stats.justsong.cn/api/github?username=dijiajichang&show_icons=true&hide_border=true&theme=default&lang=zh-CN)
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=dijiajichang&show_icons=true&hide_border=true&theme=default)
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=dijiajichang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
