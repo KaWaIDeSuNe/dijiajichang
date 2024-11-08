@@ -7,7 +7,7 @@
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
 
-![](https://komarev.com/ghpvc/?username=KaWaIDeSuNe)
+![](https://komarev.com/ghpvc/?username=KaWaIDeSuNe/dijiajichang)
 
 ---
 ## 机场限时优惠
@@ -251,9 +251,4 @@ iOS：apple store搜索Shadowrocket下载
 
 ![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/dijiajichang&type=Date)
 
-![GitHub 统计](https://stats.justsong.cn/api/github?username=KaWaIDeSuNe/dijiajichang&show_icons=true&hide_border=true&theme=default&lang=zh-CN)
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=KaWaIDeSuNe/dijiajichang&show_icons=true&hide_border=true&theme=default)
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=KaWaIDeSuNe/dijiajichang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
