@@ -58,24 +58,6 @@
 
 ---
 
-## 〇、秒联云(0/月220G)
-官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
-
-机场特色: 首月白嫖220G
-
-白嫖码：**秒连云.com**
-
-主观点评：新机场首月白嫖，目前看起来很不错,11月12日免费套餐将正式关闭，已经开通免费套餐的用户不会受到影响。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/a7f9b696-97b0-460d-9dad-b3e7ea6831e7)
-测速与解锁情况:
-![上海电信@1Gbps (15)](https://github.com/user-attachments/assets/c865fb20-8311-4077-9428-18d3e9eb6e8e)
-
-
-线路分析:
-![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
-
 
 ## 一、牛逼机场(7/月1000G)
 
@@ -206,6 +188,24 @@
 测速与解锁情况:
 ![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
 
+---
+
+## 九、秒联云(5/月50G)
+官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
+
+机场特色: 
+
+
+主观点评：月白嫖结束了，试用了感觉还不错，喜欢的可以买。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/a7f9b696-97b0-460d-9dad-b3e7ea6831e7)
+测速与解锁情况:
+![上海电信@1Gbps (15)](https://github.com/user-attachments/assets/c865fb20-8311-4077-9428-18d3e9eb6e8e)
+
+
+线路分析:
+![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
 
 ---
 ## 购买指导总结
