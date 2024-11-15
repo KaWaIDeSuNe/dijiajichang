@@ -101,13 +101,14 @@
 ## 五、三毛机场(3年付/月5G)
 官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
 
-主观评价:直连机场，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
+主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
 
 测速与解锁情况:
-![三毛机场测速与解锁](https://github.com/user-attachments/assets/8cde3c09-11e9-4eaf-85d9-4345c1dc54c3)
+![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
+
 
 ---
 ## 六、山水云(4.99/月100G)
