@@ -123,6 +123,12 @@
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
 
+测速与解锁情况:
+![辽宁移动@1Gbps (12)](https://github.com/user-attachments/assets/29f55f37-d387-4e52-b813-b0aa6cfaa3e4)
+
+线路分析:
+![线路分析 (11)](https://github.com/user-attachments/assets/605560ea-41a7-427a-8f40-2e8b92bc7995)
+
 ---
 ## 七、NanoCloud(1/月100G)
 官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
