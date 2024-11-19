@@ -167,10 +167,11 @@
 机场特色: 
 
 
-主观点评：月白嫖结束了，试用了感觉还不错，喜欢的可以买。
+主观点评：试用了感觉还不错，速度和解锁都非常好，但作为新机场，还是要注意下风险。
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/a7f9b696-97b0-460d-9dad-b3e7ea6831e7)
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/16b3f4dd-88c9-4771-855f-78f376e20163">
+
 测速与解锁情况:
 ![上海电信@1Gbps (15)](https://github.com/user-attachments/assets/c865fb20-8311-4077-9428-18d3e9eb6e8e)
 
