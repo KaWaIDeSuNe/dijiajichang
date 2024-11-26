@@ -161,7 +161,7 @@
 
 ## 九、廉价机场(6/月500G)
 
-官网地址:[点击进入](https://廉价机场.com/#/register?code=YGKMsx4B)
+官网地址:[点击进入](https://lianjia.me/#/register?code=YGKMsx4B)
 
 机场特色:注册有一年20G的免费试用
 
