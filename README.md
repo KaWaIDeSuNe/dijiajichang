@@ -61,7 +61,22 @@
 ![淘气兔线路分析](https://github.com/user-attachments/assets/9eea3365-0ebb-4b8f-b5b5-96a0e5cb4703)
 
 ---
-## 三、三毛机场(3年付/月5G)
+## 三、CF云(3/月100G)
+
+官网地址:[点击进入](https://cfyun.top/#/login?code=ILD7nH8n)
+
+主观评价:性价比很不错，之前工单不回复下架了一波，现在恢复了。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/396ce220-7466-47d0-b838-867745144813)
+
+
+测速与解锁情况:
+![telegram-cloud-photo-size-5-6091510304866418595-y](https://github.com/user-attachments/assets/171e94e8-a0ef-4feb-886c-a2b682ac3193)
+
+
+---
+## 四、三毛机场(3年付/月5G)
 官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
 
 主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
@@ -74,7 +89,7 @@
 
 
 ---
-## 四、山水云(4.99/月100G)
+## 五、山水云(4.99/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
@@ -90,7 +105,7 @@
 ![线路分析 (11)](https://github.com/user-attachments/assets/605560ea-41a7-427a-8f40-2e8b92bc7995)
 
 ---
-## 五、NanoCloud(1/月100G)
+## 六、NanoCloud(1/月100G)
 官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
 
 机场特色:50G流量免费试用
@@ -111,7 +126,7 @@
 
 ---
 
-## 六、星河云(1/月16G)
+## 七、星河云(1/月16G)
 官网地址:[点击进入](https://svip.xingheyun.lol/register?code=p8jChMGP)
 
 主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
@@ -124,7 +139,7 @@
 
 ---
 
-## 七、秒联云(5/月50G)
+## 八、秒联云(5/月50G)
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
 机场特色: 
