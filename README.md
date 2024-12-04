@@ -95,7 +95,7 @@
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
-主观评价:全中转，50多个地区的节点，流媒体/ChatGPT全部解锁，稳定性很不错，晚高峰速度一般，4.99元100G，如果平时不在晚高峰使用，推荐购买。
+主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，4.99元100G，老板处理问题速度很快，这点很赞。
 
 套餐价格:
 ![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
