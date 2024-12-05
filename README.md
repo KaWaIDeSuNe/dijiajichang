@@ -162,7 +162,8 @@
 <img width="1321" alt="image" src="https://github.com/user-attachments/assets/16b3f4dd-88c9-4771-855f-78f376e20163">
 
 测速与解锁情况:
-![上海电信@1Gbps (15)](https://github.com/user-attachments/assets/c865fb20-8311-4077-9428-18d3e9eb6e8e)
+![telegram-cloud-photo-size-5-6235477015922853352-w](https://github.com/user-attachments/assets/bf80d0c6-5678-4412-b403-5b9fcd528919)
+
 
 ![2024-12-05T10-29-53 586-ID-27d5482e](https://github.com/user-attachments/assets/48e46bf2-824d-4fe9-a56d-f80c2b0c524d)
 
