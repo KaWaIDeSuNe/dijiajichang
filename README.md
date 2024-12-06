@@ -7,7 +7,7 @@
 
 如果对于节点稳定性或性能上有更高的需求，请参考我的另一篇文档[性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
 
-还有免费的订阅地址分享：[订阅地址分享](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/free.md)
+还有免费的订阅地址分享：[免费订阅地址分享](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/free.md) 供大家临时使用。
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
 
