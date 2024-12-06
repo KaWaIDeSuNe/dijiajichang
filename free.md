@@ -39,4 +39,4 @@
 
 ---
 
-<https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fxn--cp3a08l.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dff4adedbf741cd4f0c5b30da418d5e94&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FKaWaIDeSuNe%2FClashCustomRule%2Fmaster%2Fmy_remote_config&emoji=true&list=false&xudp=false&udp=true&tfo=false&expand=true&scv=true&fdn=false&new_name=true>
+<https://xn--cp3a08l.com/api/v1/client/subscribe?token=ff4adedbf741cd4f0c5b30da418d5e94>
