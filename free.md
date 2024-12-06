@@ -27,7 +27,16 @@
 
 
 ### 自购订阅
-> https://subscription.und32w4732.top/2ed0c62b-a0a0-4996-9319-68da8641988a/ss
-> https://fctahfbxlk.eastasia.cloudapp.azure.com/queue/list?token=d90fce10e19b802829399a641d667679
-> https://sub.cjcloud.cc/api/v1/client/subscribe?token=304b656410d81f54bde0140f00d9e697
-> https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fxn--cp3a08l.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dff4adedbf741cd4f0c5b30da418d5e94&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FKaWaIDeSuNe%2FClashCustomRule%2Fmaster%2Fmy_remote_config&emoji=true&list=false&xudp=false&udp=true&tfo=false&expand=true&scv=true&fdn=false&new_name=true
+<https://subscription.und32w4732.top/2ed0c62b-a0a0-4996-9319-68da8641988a/ss>
+
+---
+
+<https://fctahfbxlk.eastasia.cloudapp.azure.com/queue/list?token=d90fce10e19b802829399a641d667679>
+
+---
+
+<https://sub.cjcloud.cc/api/v1/client/subscribe?token=304b656410d81f54bde0140f00d9e697>
+
+---
+
+<https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fxn--cp3a08l.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dff4adedbf741cd4f0c5b30da418d5e94&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FKaWaIDeSuNe%2FClashCustomRule%2Fmaster%2Fmy_remote_config&emoji=true&list=false&xudp=false&udp=true&tfo=false&expand=true&scv=true&fdn=false&new_name=true>
