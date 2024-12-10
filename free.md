@@ -29,9 +29,6 @@
 ### 自购订阅
 <https://subscription.und32w4732.top/2ed0c62b-a0a0-4996-9319-68da8641988a/ss>
 
----
-
-<https://fctahfbxlk.eastasia.cloudapp.azure.com/queue/list?token=d90fce10e19b802829399a641d667679>
 
 ---
 
