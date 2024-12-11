@@ -1,4 +1,4 @@
-![telegram-cloud-photo-size-5-6253571665896261224-w](https://github.com/user-attachments/assets/4ca919c4-242d-4dd0-a5f1-7c9099ed4696)# 低价机场推荐
+# 低价机场推荐
 🚀推荐月10以下的优质低价机场
 
 
