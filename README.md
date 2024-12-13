@@ -195,7 +195,7 @@
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
-主观评价:台湾朋友开的机场，节点非常的多，还有很多台湾家宽节点
+主观评价:台湾朋友开的机场，老板非常热情，节点非常的多，台湾节点也都是家宽，直连、中转、专线全都有。
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/93d31dea-44d1-498b-9f8e-e6818ec83386)
