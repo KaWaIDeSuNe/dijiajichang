@@ -31,6 +31,10 @@
 
 过境线路：青岛联通（中转）、浙江移动（中转）、直连
 
+具有竞争力的套餐：
+1️⃣ 2000GB/月（约0.007元/GB）
+2️⃣ 不限时2000GB（约0.02元/GB）
+
 套餐价格:
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/c4fee380-f04c-47af-b8ae-0d4e1c69ece2">
