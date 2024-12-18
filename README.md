@@ -160,7 +160,8 @@
 
 
 套餐价格:
-![Screenshot_2024-12-18_07-39-47](https://github.com/user-attachments/assets/6f638bc3-7c85-4ade-bb2c-e0674ce8b291)
+![image](https://github.com/user-attachments/assets/e939fd90-7a7d-4451-a827-96135e9e7b56)
+
 
 
 
