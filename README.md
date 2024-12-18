@@ -51,6 +51,9 @@
 
 主观评价:直连、中转、专线机场，老板非常热情，节点非常的多，很多家宽节点，强烈建议经常使用ChatGPT等AI工具购买此机场，体验非常好。
 
+95折优惠码： **suda666**
+
+
 套餐价格:
 ![image](https://github.com/user-attachments/assets/93d31dea-44d1-498b-9f8e-e6818ec83386)
 
