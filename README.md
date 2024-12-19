@@ -46,8 +46,36 @@
 
 ---
 
+## 二、速达机场(5/月100G)
 
-## 二、淘气兔(7.8/月100G) 
+官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
+
+机场特色：家宽机场，还有免费的公益套餐
+
+主观评价:直连、中转、专线、家宽全部都有，节点非常的多，5元100G性价比超高，家宽节点ChatGPT快到飞起，强烈建议经常使用AI工具购买此机场，体验非常好，除了免费套餐其他套餐都一样，价格低的性价比高。
+
+95折优惠码： **suda666**
+
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/e939fd90-7a7d-4451-a827-96135e9e7b56)
+
+
+
+
+
+测速与解锁情况:
+![Suda速达机场_深圳电信_多线程](https://github.com/user-attachments/assets/0504fa9c-9cc0-4dfc-8ddd-164d7106b17c)
+
+![Suda速达机场_流媒体测试](https://github.com/user-attachments/assets/5ef61b50-c456-4508-a5be-f2ccec45945d)
+
+线路分析:
+![2024-12-18T15-14-01 534-ID-27d5482e](https://github.com/user-attachments/assets/be30d2fe-a842-43ff-8c3d-d591184f1fca)
+
+---
+
+
+## 三、淘气兔(7.8/月100G) 
 
 官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
 
@@ -73,7 +101,7 @@
 
 ---
 
-## 三、NanoCloud(1/月100G)
+## 四、NanoCloud(1/月100G)
 官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
 
 机场特色:50G流量免费试用
@@ -92,7 +120,7 @@
 ![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
 
 ---
-## 四、山水云(4.99/月100G)
+## 五、山水云(4.99/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
@@ -110,7 +138,7 @@
 
 ---
 
-## 五、秒联云(5/月50G)
+## 六、秒联云(5/月50G)
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
 机场特色: 
@@ -137,7 +165,7 @@
 
 
 ---
-## 六、一分机场(2/月100G)
+## 七、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -150,33 +178,6 @@
 ![一分机场_珠海联通_多线程](https://github.com/user-attachments/assets/bf95ad75-112d-4a2c-ae43-be5d8d550eef)
 ![一分机场_流媒体测试](https://github.com/user-attachments/assets/d2915013-2aa1-4aad-bd1a-c0e62b3086f2)
 
----
-
-## 七、速达机场(5/月100G)
-
-官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
-
-机场特色：家宽机场，还有免费的公益套餐
-
-主观评价:直连、中转、专线、家宽全部都有，节点非常的多，5元100G性价比超高，家宽节点ChatGPT快到飞起，强烈建议经常使用AI工具购买此机场，体验非常好，除了免费套餐其他套餐都一样，价格低的性价比高。
-
-95折优惠码： **suda666**
-
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/e939fd90-7a7d-4451-a827-96135e9e7b56)
-
-
-
-
-
-测速与解锁情况:
-![Suda速达机场_深圳电信_多线程](https://github.com/user-attachments/assets/0504fa9c-9cc0-4dfc-8ddd-164d7106b17c)
-
-![Suda速达机场_流媒体测试](https://github.com/user-attachments/assets/5ef61b50-c456-4508-a5be-f2ccec45945d)
-
-线路分析:
-![2024-12-18T15-14-01 534-ID-27d5482e](https://github.com/user-attachments/assets/be30d2fe-a842-43ff-8c3d-d591184f1fca)
 
 
 ---
@@ -226,6 +227,24 @@
 
 ![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
+---
+
+## 十一、五毛机场(6年付/月100G)
+官网地址:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
+
+主观评价:直连机场，速度还可以，还有ipv6，节点不多，6块一年。
+
+套餐价格:
+
+![套餐价格](![image](https://github.com/user-attachments/assets/89041067-2835-4e88-bae5-c2859665db9f)
+)
+
+测速与解锁情况:
+![telegram-cloud-photo-size-5-6273527346673859444-y](https://github.com/user-attachments/assets/e30f1d5a-f7b9-45b1-8587-5c6c8ea1ee8e)
+
+![telegram-cloud-photo-size-5-6273527346673859445-y](https://github.com/user-attachments/assets/ff09b6cf-3895-4ef4-8d53-9d1239c9399b)
+
+![telegram-cloud-photo-size-5-6273527346673859446-y](https://github.com/user-attachments/assets/f90f3f82-dc2a-4ba1-a52c-0b0d7aa0e823)
 
 
 ---
@@ -258,7 +277,7 @@
 
     3)**直连+中转机场：** 牛逼机场
 
-4.**新疆地区可用：** 一分机场、NanoCloud、三毛机场（直连机场一般都可以用）
+4.**新疆地区可用：** 一分机场、NanoCloud、三毛机场、五毛机场（直连机场一般都可以用）
 
 ---
 ## 客户端软件下载
