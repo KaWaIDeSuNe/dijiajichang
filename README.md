@@ -232,11 +232,11 @@
 ## 十一、五毛机场(6年付/月100G)
 官网地址:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
 
-主观评价:直连机场，速度还可以，还有ipv6，节点不多，6块一年。
+主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，6块一年。
 
 套餐价格:
 
-![套餐价格](![image](https://github.com/user-attachments/assets/89041067-2835-4e88-bae5-c2859665db9f))
+![套餐价格](![image](https://github.com/user-attachments/assets/89041067-2835-4e88-bae5-c2859665db9f)
 
 测速与解锁情况:
 ![telegram-cloud-photo-size-5-6273527346673859444-y](https://github.com/user-attachments/assets/e30f1d5a-f7b9-45b1-8587-5c6c8ea1ee8e)
