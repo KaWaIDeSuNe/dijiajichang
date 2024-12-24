@@ -35,4 +35,4 @@
 
 ---
 
-<https://xn--cp3a08l.com/api/v1/client/subscribe?token=ff4adedbf741cd4f0c5b30da418d5e94>
+<https://proa.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=122a63acb8f678183328cb969d6e9165>
