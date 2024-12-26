@@ -67,6 +67,26 @@
 ![telegram-cloud-photo-size-5-6273527346673859446-y](https://github.com/user-attachments/assets/f90f3f82-dc2a-4ba1-a52c-0b0d7aa0e823)
 
 
+---
+
+## 三、KTM Cloud(17.97季付/月1000G) 
+
+官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
+
+主观评价:直连+中转机场，流量价格便宜5.99元1024G中转流量，速度还可以，节点也不少,总体很不错。
+
+具有竞争力的套餐： 1️⃣ 1000GB/月（约0.006元/GB）
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/17f002eb-7b1b-43c5-81d3-e813f7f83753)
+
+测速与解锁情况:
+![辽宁移动](https://github.com/user-attachments/assets/ccb7f7a7-f78b-439d-967f-0009e5094211)
+
+线路分析：
+![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
+
 
 ---
 
