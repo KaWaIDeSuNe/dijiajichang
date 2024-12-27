@@ -271,6 +271,7 @@
 
 95折优惠码： **suda666**
 
+家宽节点有：台湾、香港HKT、香港HGC、美国、乌克兰、马来西亚、土耳其、埃及
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/e939fd90-7a7d-4451-a827-96135e9e7b56)
