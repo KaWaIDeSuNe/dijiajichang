@@ -246,7 +246,7 @@
 ---
 
 ## 十、星河云(1/月10G)
-官网地址1:[点击进入](https://svip.xingheyun.lol/register?code=p8jChMGP)
+官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
 
