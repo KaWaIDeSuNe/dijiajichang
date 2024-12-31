@@ -130,14 +130,13 @@
 
 过境线路：广州移动（中转）
 
-ping值：
-![image](https://github.com/user-attachments/assets/73a738b3-121b-459a-8da8-e52ca9e1c24a)
-
 
 套餐价格:
 
 ![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
 
+ping值：
+![image](https://github.com/user-attachments/assets/73a738b3-121b-459a-8da8-e52ca9e1c24a)
 
 测速与解锁情况:
 ![上海电信@1Gbps (19)](https://github.com/user-attachments/assets/521f1509-754f-4106-b359-105dfd36b533)
