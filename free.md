@@ -27,11 +27,11 @@
 
 
 ### 自购订阅
-<https://sub.cjcloud.cc/api/v1/client/subscribe?token=304b656410d81f54bde0140f00d9e697>
+<https://pianyi.sub.sub.subsub123456789.com/answer/land?token=1369230add2980bdfbcba408e1445281>
 
 ---
 
-<https://1api-xgy.guanhua.xyz/api/v1/client/subscribe?token=c8e49d25750ef28ef5642a7095c8fe51>
+<https://pqjc.site/api/v1/client/subscribe?token=9b22e883fd578736b69b743198eb1702>
 
 ---
 
