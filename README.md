@@ -152,16 +152,17 @@ ping值：
 
 ---
 
-## 五、五毛机场(6年付/月100G)
+## 五、五毛机场(10/5000G)
 官网地址:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
 
-主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，6块一年，性价比很高。
+主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，性价比很高。
 
-具有竞争力的套餐： 1️⃣ 100GB/月（约0.005元/GB）
+具有竞争力的套餐： 1️⃣ 5000GB/月（约0.002元/GB）
 
 套餐价格:
 
-![套餐价格](![image](https://github.com/user-attachments/assets/89041067-2835-4e88-bae5-c2859665db9f)
+![image](https://github.com/user-attachments/assets/b13d8848-d54d-4007-b182-dc82a5e902e9)
+
 
 测速与解锁情况:
 ![telegram-cloud-photo-size-5-6273527346673859444-y](https://github.com/user-attachments/assets/e30f1d5a-f7b9-45b1-8587-5c6c8ea1ee8e)
