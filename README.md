@@ -65,18 +65,24 @@
 半年付7.5折：pWev6Ogm
 年付7折：xZ90Evgu
 
-主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，快去免费体验下吧。
+主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
 
 过境线路：深圳三网（深港专线）、上海电信（沪日专线）
 
 
 套餐价格:
 
+![image](https://github.com/user-attachments/assets/8416b164-e257-400f-a51e-f92c865fb6c6)
 
+
+测速与解锁情况:
+![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
+![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
 
 
 线路分析:
-![2024-11-01T16-47-44-com](https://github.com/user-attachments/assets/423f4026-5607-4349-aec6-d636ddbe4218)
+![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
+
 ---
 
 
