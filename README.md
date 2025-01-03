@@ -47,35 +47,6 @@
 ---
 
 
-## 〇、爱翻机场(0/月19G)
-
-官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
-
-优惠码: 季付8折：FLY0GAR4
-半年付7.5折：pWev6Ogm
-年付7折：xZ90Evgu
-
-主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
-
-过境线路：深圳三网（深港专线）、上海电信（沪日专线）
-
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/8416b164-e257-400f-a51e-f92c865fb6c6)
-
-
-测速与解锁情况:
-![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
-![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
-
-
-线路分析:
-![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
-
----
-
-
 ## 一、牛逼机场(6.9/月1000G)
 
 官网地址:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
@@ -305,6 +276,34 @@ ping值：
 线路分析:
 ![2024-12-18T15-14-01 534-ID-27d5482e](https://github.com/user-attachments/assets/be30d2fe-a842-43ff-8c3d-d591184f1fca)
 
+
+---
+
+## 十二、爱翻机场(0/月19G)
+
+官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
+
+优惠码: 季付8折：FLY0GAR4
+半年付7.5折：pWev6Ogm
+年付7折：xZ90Evgu
+
+主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
+
+过境线路：深圳三网（深港专线）、上海电信（沪日专线）
+
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/8416b164-e257-400f-a51e-f92c865fb6c6)
+
+
+测速与解锁情况:
+![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
+![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
+
+
+线路分析:
+![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
 
 ---
 ## 购买指导总结
