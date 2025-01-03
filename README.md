@@ -278,33 +278,7 @@ ping值：
 
 ---
 
-## 十一、秒连云(5/月50G)
-官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
-
-机场特色: 
-
-55折优惠码：**MLY55** 购买 季付、半年付、年付使用；
-66折优惠码：**MLY66** 购买月付使用；
-8折优惠码：**MLY80** 购买不限时流量套餐使用
-
-过境线路：江苏移动（中转）、湖北移动（中转）
-
-主观点评：质量还不错，速度和解锁都非常好，稳定性也很好。
-
-套餐价格:
-<img width="1321" alt="image" src="https://github.com/user-attachments/assets/16b3f4dd-88c9-4771-855f-78f376e20163">
-
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6235477015922853352-w](https://github.com/user-attachments/assets/bf80d0c6-5678-4412-b403-5b9fcd528919)
-
-
-![2024-12-05T10-29-53 586-ID-27d5482e](https://github.com/user-attachments/assets/48e46bf2-824d-4fe9-a56d-f80c2b0c524d)
-
-线路分析:
-![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
----
-
-## 十二、速达机场(5/月100G)
+## 十一、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
