@@ -129,7 +129,7 @@ ping值：
 ---
 
 ## 五、五毛机场(10/5000G)
-官网地址:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
+官网地址:[点击进入](https://www.freebb.me/#/register?code=IfDZgaIf)
 
 主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，适合大流量用户使用。
 
