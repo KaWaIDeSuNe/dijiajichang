@@ -6,7 +6,7 @@
 
 本文中的所有订阅请勿用于非法用途、BT/PT下载。
 
-免费订阅由于使用的人多，稳定性差、速度慢，建议大家临时使用，购买付费套餐。[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) | [性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
+免费订阅由于使用的人多，稳定性差、速度慢，建议大家临时使用，长期使用购买付费套餐。[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) | [性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
 
 如果本文对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
 
