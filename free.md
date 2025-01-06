@@ -25,6 +25,11 @@
 
 <https://links.bocchi2b.top/clash>
 
+---
+
+<https://igdux.top/~20ssr-12t>
+
+
 
 ### 自购订阅
 <https://pianyi.sub.sub.subsub123456789.com/answer/land?token=1369230add2980bdfbcba408e1445281>
