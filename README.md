@@ -147,23 +147,9 @@ ping值：
 
 
 ---
-## 六、一分机场(2/月100G)
-
-官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
-
-主观评价:在直连机场里算是非常不错的，速度非常优秀，推荐作为备用机场或者是跑下载。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
-
-测速与解锁情况:
-![一分机场_珠海联通_多线程](https://github.com/user-attachments/assets/bf95ad75-112d-4a2c-ae43-be5d8d550eef)
-![一分机场_流媒体测试](https://github.com/user-attachments/assets/d2915013-2aa1-4aad-bd1a-c0e62b3086f2)
-
----
 
 
-## 七、三毛机场(3年付/月5G)
+## 六、三毛机场(3年付/月5G)
 官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
 
 主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
@@ -178,7 +164,7 @@ ping值：
 ![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
 ---
-## 八、CF云(3/月100G)
+## 七、CF云(3/月100G)
 
 官网地址:[点击进入](https://cfyun.top/#/login?code=ILD7nH8n)
 
@@ -195,7 +181,7 @@ ping值：
 
 ---
 
-## 九、星河云(1/月10G)
+## 八、星河云(1/月10G)
 官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
@@ -211,7 +197,7 @@ ping值：
 
 ---
 
-## 十、五毛机场(10/5000G)
+## 九、五毛机场(10/5000G)
 官网地址:[点击进入](https://www.freebb.me/#/register?code=IfDZgaIf)
 
 主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，适合大流量用户使用。
@@ -232,7 +218,7 @@ ping值：
 
 ---
 
-## 十一、速达机场(5/月100G)
+## 十、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -262,7 +248,7 @@ ping值：
 
 ---
 
-## 十二、爱翻机场(0/月19G)
+## 十一、爱翻机场(0/月19G)
 
 官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
 
