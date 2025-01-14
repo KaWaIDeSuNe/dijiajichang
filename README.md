@@ -28,41 +28,10 @@
 ⭐️优惠码：KTM8888
 适用范围：年付套餐
 
-
 ---
 
 
-## 一、牛逼机场(6.9/月1000G)
-
-官网地址1:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
-
-官网地址2:[点击进入](https://5.6bcloud.top/#/register?code=5DKFf0U5)
-
-
-优惠码: **牛逼机场666**
-
-主观评价:套餐为中转+直连节点，价格低，节点多，速度快，推荐需要大流量的用户购买月付套餐。
-
-过境线路：青岛联通（中转）、浙江移动（中转）、直连
-
-具有竞争力的套餐：
-1️⃣ 3000GB/月（约0.005元/GB）
-2️⃣ 不限时2000GB（约0.02元/GB）
-
-套餐价格:
-
-<img width="1429" alt="image" src="https://github.com/user-attachments/assets/c4fee380-f04c-47af-b8ae-0d4e1c69ece2">
-
-
-
-线路分析:
-![2024-11-01T16-47-44-com](https://github.com/user-attachments/assets/423f4026-5607-4349-aec6-d636ddbe4218)
-
-
----
-
-
-## 二、淘气兔(7.8/月100G) 
+## 一、淘气兔(7.8/月100G) 
 
 官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
 
@@ -86,6 +55,37 @@ ping值：
 
 线路分析:
 ![telegram-cloud-photo-size-5-6278019225335481116-w](https://github.com/user-attachments/assets/c1fbaa1f-180d-43af-89e3-72e156211c53)
+
+---
+
+
+## 二、牛逼机场(6.9/月1000G)
+
+官网地址1:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
+
+官网地址2:[点击进入](https://5.6bcloud.top/#/register?code=5DKFf0U5)
+
+
+优惠码: **牛逼机场666**
+
+主观评价:套餐为中转+直连节点，价格低，节点多，推荐需要大流量的用户购买月付套餐。
+
+过境线路：青岛联通（中转）、浙江移动（中转）、直连
+
+具有竞争力的套餐：
+1️⃣ 3000GB/月（约0.005元/GB）
+2️⃣ 不限时2000GB（约0.02元/GB）
+
+套餐价格:
+
+<img width="1429" alt="image" src="https://github.com/user-attachments/assets/c4fee380-f04c-47af-b8ae-0d4e1c69ece2">
+
+
+
+线路分析:
+![2024-11-01T16-47-44-com](https://github.com/user-attachments/assets/423f4026-5607-4349-aec6-d636ddbe4218)
+
+
 
 
 ---
