@@ -28,38 +28,11 @@
 ⭐️优惠码：KTM8888
 适用范围：年付套餐
 
----
-
-
-## 一、淘气兔(7.8/月100G) 
-
-官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
-
-机场特色:签到送流量
-
-主观评价:全中转节点，性价比高，稳定性好，解锁优秀，我个人使用一年多了，大部分时间全部节点都在线，特殊时期也没受到影响，近期两个入口换成了专线，非常不错。
-
-过境线路：广州移动（中转）
-
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
-
-ping值：
-![image](https://github.com/user-attachments/assets/73a738b3-121b-459a-8da8-e52ca9e1c24a)
-
-测速与解锁情况:
-![上海电信@1Gbps (19)](https://github.com/user-attachments/assets/521f1509-754f-4106-b359-105dfd36b533)
-
-
-线路分析:
-![telegram-cloud-photo-size-5-6278019225335481116-w](https://github.com/user-attachments/assets/c1fbaa1f-180d-43af-89e3-72e156211c53)
 
 ---
 
 
-## 二、牛逼机场(6.9/月1000G)
+## 一、牛逼机场(6.9/月1000G)
 
 官网地址1:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
 
@@ -84,6 +57,35 @@ ping值：
 
 线路分析:
 ![2024-11-01T16-47-44-com](https://github.com/user-attachments/assets/423f4026-5607-4349-aec6-d636ddbe4218)
+---
+
+
+## 二、淘气兔(7.8/月100G) 
+
+官网地址:[点击进入](https://vip.taoqitu.pro/index.html?register=5P3PPWZM)
+
+机场特色:签到送流量
+
+主观评价:全中转节点，性价比高，稳定性好，解锁优秀，我个人使用一年多了，大部分时间全部节点都在线，特殊时期也没受到影响，近期两个入口换成了专线，非常不错。
+
+过境线路：广州移动（中转）
+
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
+
+ping值：
+![image](https://github.com/user-attachments/assets/73a738b3-121b-459a-8da8-e52ca9e1c24a)
+
+测速与解锁情况:
+![上海电信@1Gbps (19)](https://github.com/user-attachments/assets/521f1509-754f-4106-b359-105dfd36b533)
+
+
+线路分析:
+![telegram-cloud-photo-size-5-6278019225335481116-w](https://github.com/user-attachments/assets/c1fbaa1f-180d-43af-89e3-72e156211c53)
+
+
 
 
 
