@@ -164,19 +164,18 @@ ping值：
 ![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
 ---
-## 七、CF云(3/月100G)
+## 七、一分机场(2/月100G)
 
-官网地址:[点击进入](https://cfyun.top/#/login?code=ILD7nH8n)
+官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
-主观评价:中转机场，性价比很不错。
+主观评价:在直连机场里算是非常不错的，速度非常优秀，推荐作为备用机场或者是跑下载。
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/396ce220-7466-47d0-b838-867745144813)
-
+![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
 
 测速与解锁情况:
-![telegram-cloud-photo-size-5-6091510304866418595-y](https://github.com/user-attachments/assets/171e94e8-a0ef-4feb-886c-a2b682ac3193)
-![2024-12-05T10-02-32 975-ID-27d5482e](https://github.com/user-attachments/assets/d5991ce6-a9b0-4591-a68b-9259284e6d9e)
+![一分机场_珠海联通_多线程](https://github.com/user-attachments/assets/bf95ad75-112d-4a2c-ae43-be5d8d550eef)
+![一分机场_流媒体测试](https://github.com/user-attachments/assets/d2915013-2aa1-4aad-bd1a-c0e62b3086f2)
 
 
 ---
