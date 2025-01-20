@@ -32,6 +32,9 @@
 
 
 ### 自购订阅
+<https://sub.cjcloud.cc/api/v1/client/subscribe?token=304b656410d81f54bde0140f00d9e697>
+
+---
 
 <https://dy.pmy666.xyz/api/v1/client/subscribe?token=a60fc25cdd823300e0bc203b90ef5880>
 
@@ -44,4 +47,7 @@
 
 ---
 
+
 <https://proa.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=122a63acb8f678183328cb969d6e9165>
+---
+<https://dy.kuailejc.xyz/api/v1/client/subscribe?token=91b947c2d7a53c2f8d9fe3a055070f8e>
