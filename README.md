@@ -127,31 +127,12 @@ ping值：
 线路分析:
 ![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
 
----
-
-## 五、KTM Cloud(17.97季付/月1000G) 
-
-官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
-
-主观评价:直连+中转机场，流量价格便宜5.99元1024G中转流量，速度还可以，节点也不少,总体很不错，推荐需要大流量用户购买。
-
-具有竞争力的套餐： 1️⃣ 1000GB/月（约0.006元/GB）
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/17f002eb-7b1b-43c5-81d3-e813f7f83753)
-
-测速与解锁情况:
-![辽宁移动](https://github.com/user-attachments/assets/ccb7f7a7-f78b-439d-967f-0009e5094211)
-
-线路分析：
-![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
 
 
 ---
 
 
-## 六、三毛机场(3年付/月5G)
+## 五、三毛机场(3年付/月5G)
 官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
 
 主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
@@ -166,7 +147,7 @@ ping值：
 ![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
 ---
-## 七、一分机场(2/月100G)
+## 六、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -182,7 +163,7 @@ ping值：
 
 ---
 
-## 八、星河云(1/月10G)
+## 七、星河云(1/月10G)
 官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
@@ -198,7 +179,7 @@ ping值：
 
 ---
 
-## 九、五毛机场(10/5000G)
+## 八、五毛机场(10/5000G)
 官网地址:[点击进入](https://www.freebb.me/#/register?code=IfDZgaIf)
 
 主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，适合大流量用户使用。
@@ -219,7 +200,7 @@ ping值：
 
 ---
 
-## 十、速达机场(5/月100G)
+## 九、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -247,33 +228,6 @@ ping值：
 ![2024-12-18T15-14-01 534-ID-27d5482e](https://github.com/user-attachments/assets/be30d2fe-a842-43ff-8c3d-d591184f1fca)
 
 
----
-
-## 十一、爱翻机场(0/月19G)
-
-官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
-
-优惠码: 季付8折：FLY0GAR4
-半年付7.5折：pWev6Ogm
-年付7折：xZ90Evgu
-
-主观评价:2025年元旦开业的全专线机场，注册首月送19G套餐，目前有 电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，可以免费体验下。
-
-过境线路：深圳三网（深港专线）、上海电信（沪日专线）
-
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/8416b164-e257-400f-a51e-f92c865fb6c6)
-
-
-测速与解锁情况:
-![爱翻 珠海 最大速度16线程](https://github.com/user-attachments/assets/f6f85b38-c1dc-4fba-b9bc-c6ff052164c7)
-![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
-
-
-线路分析:
-![爱翻 拓朴](https://github.com/user-attachments/assets/ba841253-48bb-476c-ac1e-525cef69bba9)
 
 ---
 ## 购买指导总结
@@ -289,7 +243,7 @@ ping值：
    **5-10块/月**：淘气兔(7.8/100G/月)、山水云(9.99/200G/月)、速达机场(5/100G/月)
    
     2)**需要大流量月付套餐**(每月500G以上)：
-     牛逼机场(6.9元/1000G/月)、牛逼机场(14元/3000G/月)、淘气兔(35元/800G/月)、三毛机场(5元/1200G/月)、三毛机场(8元/无限流量/月)、一分机场(6/1000G/月)、一分机场(18/5000G/月)、KTM Cloud(18季付/1000G/月)、KTM Cloud(12/2000G/月)、KTM Cloud(24/5000G/月)
+     牛逼机场(6.9元/1000G/月)、牛逼机场(14元/3000G/月)、淘气兔(35元/800G/月)、三毛机场(5元/1200G/月)、三毛机场(8元/无限流量/月)、一分机场(6/1000G/月)、一分机场(18/5000G/月)
    
    3)**需要小流量月付套餐**(每月50G以下)：
    三毛机场(3元年付/5G/月)、星河云(1元/10G/月)
