@@ -39,7 +39,7 @@
 <https://dy.pmy666.xyz/api/v1/client/subscribe?token=a60fc25cdd823300e0bc203b90ef5880>
 
 ---
-<https://cloud.jsfx.tech/api/v1/client/subscribe?token=84c62b9ec58dfec0aa4ed88be1948b93>
+<http://66ds.dishujichang.xyz/sha/bi/gfw?token=bff43b006fd5e6dce87bdc766ee850f6>
 
 ---
 
