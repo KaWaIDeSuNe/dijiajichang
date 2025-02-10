@@ -48,6 +48,7 @@
 ---
 
 
-<https://proa.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=122a63acb8f678183328cb969d6e9165>
+<https://efxxl.xyz/queue/list?token=5ce5e9a7d21602b8855fb63b05945a2f>
+
 ---
 <https://dy.kuailejc.xyz/api/v1/client/subscribe?token=91b947c2d7a53c2f8d9fe3a055070f8e>
