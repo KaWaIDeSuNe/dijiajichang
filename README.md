@@ -72,17 +72,15 @@ ping值：
 
 
 
-
-
 ---
-## 三、山水云(4.99/月100G)
+## 三、山水云(7.99/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
-主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，4.99元100G，老板处理问题速度很快，这点很赞。
+主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，7.99元100G，老板处理问题速度很快，这点很赞。
 
 套餐价格:
-![套餐价格](https://github.com/user-attachments/assets/f730edd7-6eac-4e0b-beb1-4d9b6f1e4666)
+![image](https://github.com/user-attachments/assets/1fe36057-d431-4e33-b636-7f1db4709f60)
 
 测速与解锁情况:
 ![辽宁移动@1Gbps (12)](https://github.com/user-attachments/assets/29f55f37-d387-4e52-b813-b0aa6cfaa3e4)
