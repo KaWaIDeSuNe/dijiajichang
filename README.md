@@ -145,25 +145,11 @@ ping值：
 ![一分机场_流媒体测试](https://github.com/user-attachments/assets/d2915013-2aa1-4aad-bd1a-c0e62b3086f2)
 
 
----
 
-## 七、星河云(1/月10G)
-官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
-
-官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
-
-主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
-
-
-测速与解锁情况:
-![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
 
 ---
 
-## 八、五毛机场(10/5000G)
+## 七、五毛机场(10/5000G)
 官网地址:[点击进入](https://www.freebb.me/#/register?code=IfDZgaIf)
 
 主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，适合大流量用户使用。
@@ -184,7 +170,7 @@ ping值：
 
 ---
 
-## 九、速达机场(5/月100G)
+## 八、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
