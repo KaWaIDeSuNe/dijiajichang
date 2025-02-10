@@ -16,6 +16,14 @@
 ---
 ## 机场限时优惠
 
+#### 山水云
+
+元宵节快乐
+
+元宵专享 7.9 折优惠码：2025
+
+限时优惠：该优惠码仅限使用一次，且不适用于特惠套餐
+购买须知：使用优惠券购买的一次性套餐，会覆盖当前套餐，不会叠加！
 
 
 ## 一、牛逼机场(6.9/月1000G)
@@ -80,7 +88,8 @@ ping值：
 主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，7.99元100G，老板处理问题速度很快，这点很赞。
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/1fe36057-d431-4e33-b636-7f1db4709f60)
+![image](https://github.com/user-attachments/assets/e1f97de7-3783-4bd9-9a5e-89c4f1d4fa9c)
+
 
 测速与解锁情况:
 ![辽宁移动@1Gbps (12)](https://github.com/user-attachments/assets/29f55f37-d387-4e52-b813-b0aa6cfaa3e4)
