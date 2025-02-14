@@ -223,7 +223,8 @@ ping值：
 
 
 套餐价格:
-<img width="1315" alt="image" src="https://github.com/user-attachments/assets/6e96a406-a944-442c-ae9f-05d66390f093" />
+![image](https://github.com/user-attachments/assets/867fd4bc-2378-4d50-8bd6-c9275263a115)
+
 
 
 测速与解锁情况:
