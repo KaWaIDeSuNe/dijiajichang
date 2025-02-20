@@ -79,15 +79,7 @@
 
 ![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
 
-ping值：
-![image](https://github.com/user-attachments/assets/73a738b3-121b-459a-8da8-e52ca9e1c24a)
-
-测速与解锁情况:
-![上海电信@1Gbps (19)](https://github.com/user-attachments/assets/521f1509-754f-4106-b359-105dfd36b533)
-
-
-线路分析:
-![telegram-cloud-photo-size-5-6278019225335481116-w](https://github.com/user-attachments/assets/c1fbaa1f-180d-43af-89e3-72e156211c53)
+[淘气兔测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.md)
 
 
 
@@ -103,11 +95,8 @@ ping值：
 ![image](https://github.com/user-attachments/assets/e1f97de7-3783-4bd9-9a5e-89c4f1d4fa9c)
 
 
-测速与解锁情况:
-![辽宁移动@1Gbps (12)](https://github.com/user-attachments/assets/29f55f37-d387-4e52-b813-b0aa6cfaa3e4)
+[山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
 
-线路分析:
-![线路分析 (11)](https://github.com/user-attachments/assets/605560ea-41a7-427a-8f40-2e8b92bc7995)
 
 ---
 
@@ -209,13 +198,8 @@ ping值：
 
 
 
-测速与解锁情况:
-![Suda速达机场_深圳电信_多线程](https://github.com/user-attachments/assets/0504fa9c-9cc0-4dfc-8ddd-164d7106b17c)
+[速达机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%80%9F%E8%BE%BE%E6%9C%BA%E5%9C%BA.md)
 
-![Suda速达机场_流媒体测试](https://github.com/user-attachments/assets/5ef61b50-c456-4508-a5be-f2ccec45945d)
-
-线路分析:
-![2024-12-18T15-14-01 534-ID-27d5482e](https://github.com/user-attachments/assets/be30d2fe-a842-43ff-8c3d-d591184f1fca)
 
 ---
 
