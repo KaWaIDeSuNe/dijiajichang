@@ -207,13 +207,7 @@
 
 
 
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6140972075960093360-w](https://github.com/user-attachments/assets/e8e7d611-3701-45cc-9851-bb87af8acc3f)
-![2025-02-11 11 42 49](https://github.com/user-attachments/assets/d5aa02af-cc0f-48ef-baa0-f751fee07e5c)
-
-
-线路分析:
-![telegram-cloud-photo-size-5-6140972075960093362-w](https://github.com/user-attachments/assets/0337032e-247a-4054-a1eb-511c27987be5)
+[一元中转测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%85%83%E4%B8%AD%E8%BD%AC.md)
 
 
 ---
