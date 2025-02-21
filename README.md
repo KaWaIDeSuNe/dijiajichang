@@ -116,7 +116,7 @@
 ---
 
 ## 五、五毛机场(10/5000G)
-官网地址:[点击进入](https://www.freebb.me/#/register?code=IfDZgaIf)
+官网地址:[点击进入](https://www.freebb.me/register?code=5JTLkXfI)
 
 主观评价:直连机场，稳定性一般，速度还可以，还有ipv6，节点不多，10元5000G，适合大流量用户使用。
 
@@ -124,7 +124,7 @@
 
 套餐价格:
 
-![image](https://github.com/user-attachments/assets/f878ada0-361c-4c23-9aec-4c4b32792a2d)
+![image](https://github.com/user-attachments/assets/58d0e6ae-db10-45b7-8f22-332212aa3a81)
 
 
 
