@@ -128,25 +128,10 @@
 
 ![telegram-cloud-photo-size-5-6273527346673859446-y](https://github.com/user-attachments/assets/f90f3f82-dc2a-4ba1-a52c-0b0d7aa0e823)
 
----
 
-
-## 六、三毛机场(3年付/月5G)
-官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
-
-主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
-
-套餐价格:
-
-![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
-
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6253571665896261224-w](https://github.com/user-attachments/assets/89b73569-49dd-4877-b1d2-7b68d0a9bf71)
-
-![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
 ---
-## 七、一分机场(2/月100G)
+## 六、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -164,7 +149,7 @@
 
 ---
 
-## 八、速达机场(5/月100G)
+## 七、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -188,7 +173,7 @@
 
 ---
 
-## 九、一元中转(1/月20G)
+## 八、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
