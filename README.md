@@ -16,7 +16,11 @@
 ---
 ## 机场限时优惠
 
-无
+#### ofoNET
+
+新机场开业，注册即送首月30G的高速流量。
+
+官网地址:[点击注册](https://ofonet.net/#/register?code=GSKya2kv)
 
 
 
