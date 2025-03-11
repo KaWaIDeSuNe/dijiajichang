@@ -138,6 +138,20 @@
 ![telegram-cloud-photo-size-5-6273527346673859446-y](https://github.com/user-attachments/assets/f90f3f82-dc2a-4ba1-a52c-0b0d7aa0e823)
 
 
+## 五、阿拉丁(5/月65G)
+
+官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
+
+机场特色：送双服 Emby 账号
+
+
+主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
+
+套餐价格:
+
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
+
+
 ---
 
 ## 六、秒连云(6/月50G)
