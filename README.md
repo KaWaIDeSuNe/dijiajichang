@@ -129,13 +129,7 @@
 ![image](https://github.com/user-attachments/assets/58d0e6ae-db10-45b7-8f22-332212aa3a81)
 
 
-
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6273527346673859444-y](https://github.com/user-attachments/assets/e30f1d5a-f7b9-45b1-8587-5c6c8ea1ee8e)
-
-![telegram-cloud-photo-size-5-6273527346673859445-y](https://github.com/user-attachments/assets/ff09b6cf-3895-4ef4-8d53-9d1239c9399b)
-
-![telegram-cloud-photo-size-5-6273527346673859446-y](https://github.com/user-attachments/assets/f90f3f82-dc2a-4ba1-a52c-0b0d7aa0e823)
+[五毛机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%BA%94%E6%AF%9B%E6%9C%BA%E5%9C%BA.md)
 
 
 ## 六、阿拉丁(5/月65G)
@@ -151,8 +145,9 @@
 
 <img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
 
-单线程测速：
-![2025-03-11T14-06-39 461-234](https://github.com/user-attachments/assets/a5f1ee78-5159-430e-8057-6126bb7afc78)
+
+[阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
+
 
 ---
 
@@ -173,14 +168,14 @@
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
-主观评价:在直连机场里算是非常不错的，速度非常优秀，推荐作为备用机场或者是跑下载。
+主观评价:直连机场，速度还可以，绝大多数节点都可用，解锁一般，推荐作为备用。
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
 
-测速与解锁情况:
-![一分机场_珠海联通_多线程](https://github.com/user-attachments/assets/bf95ad75-112d-4a2c-ae43-be5d8d550eef)
-![一分机场_流媒体测试](https://github.com/user-attachments/assets/d2915013-2aa1-4aad-bd1a-c0e62b3086f2)
+
+[一分机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.md)
+
 
 
 
