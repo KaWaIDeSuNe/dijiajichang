@@ -50,14 +50,13 @@
 
 
 ### 自购订阅
-<https://sub.cjcloud.cc/api/v1/client/subscribe?token=304b656410d81f54bde0140f00d9e697>
+
+<https://xyzwy.itr.lol/link/VIP/ofoNET?token=cef67c285f0daba7bfb20489afa430d7>
 
 ---
 
 <https://dy.pmy666.xyz/api/v1/client/subscribe?token=a60fc25cdd823300e0bc203b90ef5880>
 
----
-<http://66ds.dishujichang.xyz/sha/bi/gfw?token=bff43b006fd5e6dce87bdc766ee850f6>
 
 ---
 
