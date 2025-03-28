@@ -164,7 +164,23 @@
 
 ---
 
-## 七、秒连云(6/月50G)
+## 七、星河云(1/月10G)
+官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
+
+官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
+
+主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
+
+
+测速与解锁情况:
+![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
+
+---
+
+## 八、秒连云(6/月50G)
 
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
@@ -177,7 +193,7 @@
 [秒连云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%A7%92%E8%BF%9E%E4%BA%91.md)
 
 ---
-## 八、一分机场(2/月100G)
+## 九、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -194,7 +210,7 @@
 
 ---
 
-## 九、速达机场(5/月100G)
+## 十、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -218,7 +234,7 @@
 
 ---
 
-## 十、一元中转(1/月20G)
+## 十一、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
