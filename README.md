@@ -110,25 +110,11 @@
 线路分析:
 ![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
 
----
 
-## 四、星沐互联(8.8/月100G)
-
-官网地址:[点击进入](https://1.homocloud.link/#/register?code=dbTZpJlz)
-
-特色：超多冷门地区节点任选,带多地区家宽，速度嘎嘎快
-
-主观评价:中转+专线机场，入口和出口非常多，目前有九十多个节点，还有很多家宽节点，还有20G小流量套餐，总的来说挺不错的。
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/2d063cd9-cf57-47eb-b00d-f116781d503f)
-
-[星沐互联测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%AB%E4%BA%92%E8%81%94.md)
 
 ---
 
-## 五、五毛机场(3/500G)
+## 四、五毛机场(3/500G)
 官网地址1:[点击进入](https://www.freebb.me/register?code=5JTLkXfI)
 
 官网地址2:[点击进入](https://xn--dlqr72e.top/#/register?code=5JTLkXfI)
@@ -152,7 +138,7 @@
 
 ---
 
-## 六、星河云(1/月10G)
+## 五、星河云(1/月10G)
 官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
@@ -168,7 +154,7 @@
 
 ---
                           
-## 七、山水云(7.99/月100G)
+## 六、山水云(7.99/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
@@ -183,7 +169,7 @@
 
 ---
 
-## 八、秒连云(6/月50G)
+## 七、秒连云(6/月50G)
 
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
@@ -196,7 +182,7 @@
 [秒连云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%A7%92%E8%BF%9E%E4%BA%91.md)
 
 ---
-## 九、一分机场(2/月100G)
+## 八、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -213,7 +199,7 @@
 
 ---
 
-## 十、速达机场(5/月100G)
+## 九、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -237,7 +223,7 @@
 
 ---
 
-## 十一、一元中转(1/月20G)
+## 十、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
@@ -251,7 +237,23 @@
 
 [一元中转测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%85%83%E4%B8%AD%E8%BD%AC.md)
 
+---
 
+## 十一、阿拉丁(5/月65G)
+
+官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
+
+机场特色：送双服 Emby 账号
+
+
+主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
+
+套餐价格:
+
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
+
+
+[阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
 ---
 ## 购买指导总结
 方便各位快速筛选定位
