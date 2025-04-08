@@ -164,7 +164,25 @@
 [秒连云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%A7%92%E8%BF%9E%E4%BA%91.md)
 
 ---
-## 八、一分机场(2/月100G)
+
+## 八、阿拉丁(5/月65G)
+
+官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
+
+机场特色：送双服 Emby 账号
+
+
+主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
+
+套餐价格:
+
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
+
+
+[阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
+
+---
+## 九、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -181,7 +199,7 @@
 
 ---
 
-## 九、速达机场(5/月100G)
+## 十、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -205,7 +223,7 @@
 
 ---
 
-## 十、一元中转(1/月20G)
+## 十一、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
@@ -219,23 +237,7 @@
 
 [一元中转测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%85%83%E4%B8%AD%E8%BD%AC.md)
 
----
 
-## 十一、阿拉丁(5/月65G)
-
-官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
-
-机场特色：送双服 Emby 账号
-
-
-主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
-
-套餐价格:
-
-<img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
-
-
-[阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
 
 ---
 ## 购买指导总结
