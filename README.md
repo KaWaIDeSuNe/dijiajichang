@@ -134,24 +134,10 @@
 测速与解锁情况:
 ![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
 
----
-                          
-## 六、山水云(7.99/月100G)
-
-官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
-
-主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，7.99元100G，老板处理问题速度很快，这点很赞。
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/e1f97de7-3783-4bd9-9a5e-89c4f1d4fa9c)
-
-
-[山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
 
 ---
 
-## 七、秒连云(6/月50G)
+## 六、秒连云(6/月50G)
 
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
@@ -165,7 +151,7 @@
 
 ---
 
-## 八、阿拉丁(5/月65G)
+## 七、阿拉丁(5/月65G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
@@ -182,7 +168,7 @@
 [阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
 
 ---
-## 九、一分机场(2/月100G)
+## 八、一分机场(2/月100G)
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
@@ -199,7 +185,7 @@
 
 ---
 
-## 十、速达机场(5/月100G)
+## 九、速达机场(5/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -223,7 +209,7 @@
 
 ---
 
-## 十一、一元中转(1/月20G)
+## 十、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
