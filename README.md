@@ -97,7 +97,7 @@
 ---
 
 ## 四、五毛机场(3/500G)
-官网地址1:[点击进入](https://www.freebb.me/register?code=5JTLkXfI)
+官网地址1:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
 
 官网地址2:[点击进入](https://xn--dlqr72e.top/#/register?code=5JTLkXfI)
 
