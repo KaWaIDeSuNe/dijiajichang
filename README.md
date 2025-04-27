@@ -178,7 +178,7 @@
 
 官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
 
-主观评价:直连机场，速度还可以，绝大多数节点都可用，解锁一般，推荐作为备用。
+主观评价:直连机场，价格还可以，稳定性、解锁一般，推荐作为备用。
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
