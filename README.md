@@ -168,8 +168,8 @@
 ![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
 
 
-测速与解锁情况:
-![上海电信@1Gbps (13)](https://github.com/user-attachments/assets/2d8a82ec-ef1a-4b0e-97f2-26237bccc7f5)
+[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
+
 
 
 
