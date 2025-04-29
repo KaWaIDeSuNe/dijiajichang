@@ -228,6 +228,8 @@
 
 [速达机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%80%9F%E8%BE%BE%E6%9C%BA%E5%9C%BA.md)
 
+**速达机场五一涨价公告**
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/e14515a2-c50d-4715-8fad-8b03b9c42519" />
 
 ---
 
