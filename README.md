@@ -152,7 +152,13 @@
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
-机场特色：送双服 Emby 账号
+机场特色：
+1.机场提供 单账号持有多个订阅，订阅支持备注。
+2.长期 半年付折扣码：SemiAnnually 年付折扣码 Annually。
+3.送双服 Emby 账号
+4.送 Netflix Porn Prime HBO 共享账号观看
+5.最低0.3 低倍率节点
+6.独家首发流量转结系统
 
 
 主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
