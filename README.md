@@ -133,7 +133,7 @@
 
 ---
 
-## 五、阿拉丁(5/月65G)
+## 五、阿拉丁(7.5/月88G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
@@ -144,7 +144,7 @@
 
 套餐价格:
 
-<img width="1254" alt="image" src="https://github.com/user-attachments/assets/674b7dad-de66-4cfd-a1b0-e826e01b4ce7" />
+<img width="1250" alt="image" src="https://github.com/user-attachments/assets/33822cf2-d4c5-4403-aa01-a65edfc179c1" />
 
 
 [阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
