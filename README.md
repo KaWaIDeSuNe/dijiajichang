@@ -196,28 +196,12 @@
 
 
 
----
-
-## 七、秒连云(6/月50G)
-
-官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
-
-主观评价:全中转套餐，速度、解锁各方面都挺不错。
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/4e655519-493c-4f47-969a-5cd7000beea4)
-
-[秒连云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%A7%92%E8%BF%9E%E4%BA%91.md)
-
-
-
 
 
 
 ---
 
-## 八、速达机场(8/月100G)
+## 七、速达机场(8/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -241,7 +225,7 @@
 
 ---
 
-## 九、一元中转(1/月20G)
+## 八、一元中转(1/月20G)
 
 官网地址:[点击进入](https://xn--4gq1dp1ix68g.com/#/register?code=y44XSu9L)
 
