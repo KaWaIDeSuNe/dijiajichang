@@ -22,7 +22,11 @@
 
 官网地址:[点击注册](https://www.redleaf.app/#/register?code=V9cquaO2)
 
+#### WY Cloud
 
+新机场开业，凭优惠码：**WY100** 可领取每月50G的白嫖套餐。
+
+官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
 
 
 ### 抓取订阅
