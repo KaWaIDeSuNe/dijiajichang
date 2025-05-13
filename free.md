@@ -24,7 +24,7 @@
 
 #### WY Cloud
 
-新机场开业，凭优惠码：**WY100** 可领取每月50G的白嫖套餐。
+凭优惠码：**WY100** 可领取每月50G的白嫖套餐。
 
 官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
 
