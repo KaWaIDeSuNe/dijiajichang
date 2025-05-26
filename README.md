@@ -38,7 +38,7 @@
 
 套餐价格:
 
-<img width="1429" alt="image" src="https://github.com/user-attachments/assets/c4fee380-f04c-47af-b8ae-0d4e1c69ece2">
+<img width="1411" alt="image" src="https://github.com/user-attachments/assets/571b4d83-94d6-4ab9-8f03-3c2de4312326" />
 
 
 
