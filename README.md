@@ -26,6 +26,15 @@
 
 🕒 活动时间：即日起 - 6月20日 00:00
 
+#### NanoCloud
+📣618年付优惠码发放
+
+💡8折优惠码：**618SALE20**
+
+💱 有效期:6月17日--6月27日
+
+⭐️此优惠码为年付优惠码，适用于购买白羊座、射手座、双鱼座、包年订阅时使用，使用此优惠码购买可享受20%的巨大优惠折扣。
+
 ---
 
 ## 一、牛逼机场(6.9/月1000G)
@@ -91,7 +100,7 @@
 主观评价:开了好些年的一家机场，直连套餐1元100G，性价比不错。
 
 套餐价格:
-![套餐价格](https://github.com/user-attachments/assets/efdaec46-fa00-4c5e-ac0e-763fd150de82)
+<img width="1392" alt="image" src="https://github.com/user-attachments/assets/39d94026-687c-44ab-88f6-794d4c0b40f6" />
 
 测速与解锁情况:
 ![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
