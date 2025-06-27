@@ -222,7 +222,7 @@
 
 套餐价格:
 
-![image](https://github.com/user-attachments/assets/9f0342f2-6061-4203-9ce9-1d4fa96e7b86)
+![image](https://github.com/user-attachments/assets/e1bc4d0b-5cc1-482e-8a38-b52d6a86801c)
 
 
 
