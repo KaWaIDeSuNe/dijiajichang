@@ -48,7 +48,7 @@
 ---
 ## 二、动力港(8/月100G)
 
-官网地址:[点击进入](https://site01.dongligang.vip/login/?code=EeuRaZ9o)
+官网地址:[点击进入](site01.dongligang.vip/login?code=hm0iLlzT)
 
 主观评价: 质量非常不错，全1X节点，配合8元100G的售价，可以说是比较香的了。
 
