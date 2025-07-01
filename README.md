@@ -176,7 +176,7 @@
 
 ## 七、速达机场(8/月100G)
 
-官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
+官网地址:[点击进入](https://mala.sudatech.store/register?code=dR22YaBZ)
 
 机场特色：家宽机场，还有免费的无限流量公益套餐，付费套餐支付宝微信支付有8%的手续费。
 
