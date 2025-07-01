@@ -123,12 +123,33 @@
 [淘气兔测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.md)
 
 
+---
 
+## 五、星河云(1/月10G)
+官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
+
+官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
+
+主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
+
+
+推荐购买人群：
+
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
+
+[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
 
 
 ---
 
-## 五、阿拉丁(7.5/月88G)
+## 六、阿拉丁(7.5/月88G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
@@ -153,7 +174,7 @@
 
 ---
 
-## 六、速达机场(8/月100G)
+## 七、速达机场(8/月100G)
 
 官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
 
@@ -176,28 +197,7 @@
 
 [速达机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%80%9F%E8%BE%BE%E6%9C%BA%E5%9C%BA.md)
 
----
 
-## 七、星河云(1/月10G)
-官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
-
-官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
-
-主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
-
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
 
 ---
 
