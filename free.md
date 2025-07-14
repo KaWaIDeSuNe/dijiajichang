@@ -51,25 +51,4 @@
 
 ### 自购订阅
 
-<https://xyzwy.itr.lol/link/VIP/ofoNET?token=cef67c285f0daba7bfb20489afa430d7>
-
----
-
-<https://pianyi.sub.sub.subsub123456789.com/answer/land?token=1369230add2980bdfbcba408e1445281>
-
----
-
-<https://dy.pmy666.xyz/api/v1/client/subscribe?token=a60fc25cdd823300e0bc203b90ef5880>
-
-
----
-
-<https://pqjc.site/api/v1/client/subscribe?token=9b22e883fd578736b69b743198eb1702>
-
----
-
-
-<https://efxxl.xyz/queue/list?token=5ce5e9a7d21602b8855fb63b05945a2f>
-
----
-<https://dy.kuailejc.xyz/api/v1/client/subscribe?token=91b947c2d7a53c2f8d9fe3a055070f8e>
+暂无 
