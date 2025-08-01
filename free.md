@@ -23,11 +23,6 @@
 官网地址:[点击注册](https://www.redleaf.app/#/register?code=V9cquaO2)
 
 
-#### WY Cloud
-
-凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐。
-
-官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)"
 
 
 
