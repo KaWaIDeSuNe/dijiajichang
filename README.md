@@ -128,7 +128,7 @@
 
 ---
 
-## 六、阿拉丁(7.5/月88G)
+## 五、阿拉丁(7.5/月88G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
@@ -153,7 +153,7 @@
 
 ---
 
-## 七、速达机场(8/月100G)
+## 六、速达机场(8/月100G)
 
 官网地址:[点击进入](https://mala.sudatech.store/register?code=dR22YaBZ)
 
@@ -180,7 +180,7 @@
 
 ---
 
-## 八、五毛机场(3/500G)
+## 七、五毛机场(3/500G)
 
 官网地址1:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
 
@@ -202,7 +202,7 @@
 
 ---
 
-## 五、星河云(1/月10G)
+## 八、星河云(1/月10G)
 官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
