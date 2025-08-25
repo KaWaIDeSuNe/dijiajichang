@@ -128,30 +128,6 @@
 
 ---
 
-## 五、星河云(1/月10G)
-官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
-
-官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
-
-主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
-
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
-
-
----
-
 ## 六、阿拉丁(7.5/月88G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
@@ -226,19 +202,28 @@
 
 ---
 
-## 九、一元中转(1/月20G)
+## 五、星河云(1/月10G)
+官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
-官网地址:
+官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
 
-主观评价: ~全中转套餐，一元20G，推荐小流量用户购买。~（有客户反馈工单长期未回复，有跑路的风险请暂停购买）
-
+主观评价:~全中转，各方面尚可，有需要小流量的可以试下这个。~（官网连不上了，请注意风险 ）
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/867fd4bc-2378-4d50-8bd6-c9275263a115)
+![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
 
 
+推荐购买人群：
 
-[一元中转测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%85%83%E4%B8%AD%E8%BD%AC.md)
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
+
+[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
+
+
 
 
 
