@@ -214,7 +214,7 @@
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
 
-主观评价:~全中转，各方面尚可，有需要小流量的可以试下这个。~（官网连不上了，请注意风险 ）
+主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。（官网连上了 ）
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/d3e40361-563a-4938-82fc-e5fc6b482aca)
