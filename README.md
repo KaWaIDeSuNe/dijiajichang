@@ -145,14 +145,34 @@
 
 
 
+---
 
+## 五、五毛机场(3/500G)
+
+官网地址1:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
+
+官网地址2:[点击进入](https://xn--dlqr72e.top/#/register?code=5JTLkXfI)
+
+官网地址3:[点击进入](https://200900.xyz/register?code=5JTLkXfI)
+
+主观评价:直连机场，稳定性一般，节点不多，3元5000G，适合大流量用户使用，需要便宜大碗的可以试试。
+
+具有竞争力的套餐： 1️⃣ 5000GB/月（约0.002元/GB）
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/e1bc4d0b-5cc1-482e-8a38-b52d6a86801c)
+
+
+
+[五毛机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%BA%94%E6%AF%9B%E6%9C%BA%E5%9C%BA.md)"""""""""""""""
 
 
 
 
 ---
 
-## 五、星河云(1/月10G)
+## 六、星河云(1/月10G)
 官网地址1:[点击进入](https://svip.xingheyun.sbs/register?code=p8jChMGP)
 
 官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
@@ -175,7 +195,7 @@
 
 ---
 
-## 六、阿拉丁(7.5/月88G)
+## 七、阿拉丁(7.5/月88G)
 
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
