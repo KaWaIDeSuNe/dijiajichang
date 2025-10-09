@@ -42,24 +42,24 @@
 
 ---
 
-## 一、牛逼机场(6.9/月1000G)
+## 一、牛逼机场(7.9/月1000G)
 
 官网地址1:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
 
 官网地址2:[点击进入](https://5.6bcloud.top/#/register?code=5DKFf0U5)
 
 
-主观评价:套餐为中转+直连节点，价格低，节点多，推荐需要大流量的用户购买月付套餐。（10月8日后涨价）
+主观评价:套餐为中转+直连节点，价格低，节点多，推荐需要大流量的用户购买月付套餐。
 
 过境线路：青岛联通（中转）、浙江移动（中转）、直连
 
 具有竞争力的套餐：
-1️⃣ 3000GB/月（约0.005元/GB）
-2️⃣ 不限时2000GB（约0.02元/GB）
+1️⃣ 3000GB/月（约0.006元/GB）
+2️⃣ 不限时2000GB（约0.03元/GB）
 
 套餐价格:
 
-<img width="1411" alt="image" src="https://github.com/user-attachments/assets/571b4d83-94d6-4ab9-8f03-3c2de4312326" />
+<img width="1654" height="730" alt="image" src="https://github.com/user-attachments/assets/bc916874-aec9-40cb-9cb2-4d4ac0318a1e" />
 
 
 
