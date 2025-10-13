@@ -23,7 +23,7 @@
 
 ---
 
-## 一、牛逼机场(7.9/月1000G)
+## 一、牛逼机场(7.4/月1000G)
 
 官网地址1:[点击进入](https://6.66jc.top/#/login?code=5DKFf0U5)
 
@@ -40,7 +40,7 @@
 
 套餐价格:
 
-<img width="1654" height="730" alt="image" src="https://github.com/user-attachments/assets/bc916874-aec9-40cb-9cb2-4d4ac0318a1e" />
+<img width="1660" height="733" alt="image" src="https://github.com/user-attachments/assets/3514bba4-15b7-403b-bca0-443982231f4f" />
 
 
 
