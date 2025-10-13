@@ -225,9 +225,9 @@
 ## 客户端软件下载
 MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-安卓下载：[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+安卓下载：[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-iOS：apple store搜索Shadowrocket下载
+iOS：apple store搜索Shadowrocket下载、搜索sing-box
 
 ---
 
