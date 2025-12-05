@@ -78,6 +78,8 @@
 ## 三、NanoCloud(1/月100G)
 
 官网地址1:[点击进入](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi)
+官网地址2:[点击进入](https://edu.yuque.men/auth/register?code=1PhiI0Pi)
+
 
 机场特色:50G流量免费试用
 
