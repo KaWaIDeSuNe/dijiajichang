@@ -144,29 +144,7 @@
 
 [星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
 
----
 
-## 六、阿拉丁(7.5/月88G)
-
-官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
-
-机场特色：
-1.机场提供 单账号持有多个订阅，订阅支持备注。
-2.长期 半年付折扣码：SemiAnnually 年付折扣码 Annually。
-3.送双服 Emby 账号
-4.送 Netflix Porn Prime HBO 共享账号观看
-5.最低0.3 低倍率节点
-6.独家首发流量转结系统
-
-
-主观评价:全中转节点，性价挺高的，速度解锁都挺不错。
-
-套餐价格:
-
-<img width="1250" alt="image" src="https://github.com/user-attachments/assets/33822cf2-d4c5-4403-aa01-a65edfc179c1" />
-
-
-[阿拉丁测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%98%BF%E6%8B%89%E4%B8%81.md)
 
 
 
@@ -197,7 +175,7 @@
 
     1)**直连机场：** 五毛机场、NanoCloud
 
-    2)**中转机场：** 淘气兔、动力港、星河云、阿拉丁
+    2)**中转机场：** 淘气兔、动力港、星河云
 
     3)**直连+中转机场：** 牛逼机场
    
