@@ -165,7 +165,7 @@
 ## 五、星河云(1/月7G)
 官网地址1:[点击进入](https://user.xh-yun.top/register?code=p8jChMGP)
 
-官网地址2:[点击进入](https://svip.xingheyun.cfd/register?code=p8jChMGP)
+官网地址2:[点击进入](https://jw0048kowoko484gk4oo4o04.gb.app.haruka.cloud/register?code=p8jChMGP)
 
 主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。（官网连上了 ）
 
