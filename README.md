@@ -196,7 +196,7 @@ MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge
 
 安卓、鸿蒙下载：[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-iOS：apple store搜索Shadowrocket下载、搜索sing-box
+iOS：apple store搜索Clah Mi、搜索sing-box、搜索Shadowrocket下载（更推荐Clah Mi和sing-box,Shadowrocket对新协议支持不好）
 
 ---
 
