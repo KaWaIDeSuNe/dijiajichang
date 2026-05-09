@@ -101,7 +101,7 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/1581a0f3-6c60-43f8-b328-91313fb6c1b3)
 
-推荐购买人群：三网推荐
+🟢推荐购买人群：联通、移动用户   🔴不推荐人群：电信用户
 
 *最大带宽*
 - 热门节点 1Gbps
