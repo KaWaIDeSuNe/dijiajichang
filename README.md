@@ -133,30 +133,6 @@
 [淘气兔测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.md)
 
 
----
-
-## 五、星河云(1/月7G)
-官网地址1:[点击进入](https://user.xh-yun.top/register?code=p8jChMGP)
-
-官网地址2:[点击进入](https://jw0048kowoko484gk4oo4o04.gb.app.haruka.cloud/register?code=p8jChMGP)
-
-主观评价:全中转，各方面尚可，有需要小流量的可以试下这个。
-
-使用方式: 🔴不支持官方客户端 🟢支持第三方客户端
-
-套餐价格:
-<img width="1074" height="885" alt="image" src="https://github.com/user-attachments/assets/33a5a148-fa29-48cc-a9dd-ffbaa06d6659" />
-
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[星河云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%B3%E4%BA%91.md)
 
 
 
