@@ -51,7 +51,7 @@
 
 ## 二、牛逼机场(7.4/月1000G)
 
-官网地址1:[点击进入](https://66.66jc.top/#/login?code=5DKFf0U5)
+官网地址1:[点击进入](https://fb.fastnb.top/#/login?code=5DKFf0U5)
 
 官网地址2:[点击进入](https://5.6bcloud.top/#/register?code=5DKFf0U5)
 
