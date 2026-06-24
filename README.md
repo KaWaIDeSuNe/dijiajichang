@@ -1,4 +1,10 @@
 # 低价机场推荐
+
+<p align="center">
+  <strong>简体中文</strong>
+  &nbsp;·&nbsp;
+  <a href="./README_EN.md">English</a>
+</p>
 🚀推荐月10以下的优质低价机场
 
 
