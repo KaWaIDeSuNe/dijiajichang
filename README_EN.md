@@ -1,4 +1,13 @@
-# Low-Cost VPN/Airport Recommendations
+
+<h1 align="center">Low-Cost VPN/Airport Recommendations</h1>
+
+
+<p align="center">
+  <strong>English</strong>
+  &nbsp;·&nbsp;
+  <a href="./README.md">简体中文</a>
+</p>
+
 🚀 Recommended high-quality, budget-friendly airports under 10 RMB/month.
 
 [👉 点击查看中文版 (Click here for Chinese Version)](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/README.md)
