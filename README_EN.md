@@ -10,7 +10,6 @@
 
 🚀 Recommended high-quality, budget-friendly airports under 10 RMB/month.
 
-[👉 点击查看中文版 (Click here for Chinese Version)](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/README.md)
 
 This document mainly recommends several low-cost airports with ultra-high cost performance, averaging less than 10 RMB per month. Friendly reminder: Please keep multiple airports as backups to prevent losing connection. Every airport carries a risk of running away (shutting down). It is highly recommended to purchase monthly plans to reduce risks (this message is not targeted at any specific airport). My Telegram Channel: [Low-Cost Airport Recommendations](https://t.me/dijiajichangtuijian)
 
