@@ -139,13 +139,34 @@
 
 ![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
 
-推荐购买人群：三网推荐
-
 
 [淘气兔测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.md)
 
 
+---
 
+
+## 五、吹雪云 (4/月512G) 
+
+官网地址:[点击进入](https://xn--9kqs1lo79d.com/#/register?code=AnJeilbT)
+
+机场特色:注册送7日128G套餐。
+
+开业活动五折优惠：**50OFF**
+
+主观评价:新开的一家直连机场，三网速度很不错，注册送一周免费套餐，可以去试试。
+
+使用方式: 🔴不支持官方客户端 🟢支持第三方客户端
+
+
+
+套餐价格:
+
+<img width="1051" height="523" alt="image" src="https://github.com/user-attachments/assets/f6b0163a-6950-44c5-a2c0-31550a6f9df8" />
+
+
+
+[吹雪云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%90%B9%E9%9B%AA%E4%BA%91.md)
 
 
 
