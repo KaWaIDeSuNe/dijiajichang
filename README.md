@@ -159,6 +159,20 @@
 使用方式: 🔴不支持官方客户端 🟢支持第三方客户端
 
 
+---
+## 六、一分机场(2/月100G)
+
+官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
+
+主观评价:直连机场，价格还可以，节点较多，稳定性、解锁速度一般。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
+
+
+[一分机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.md)
+
+
 
 套餐价格:
 
@@ -167,7 +181,6 @@
 
 
 [吹雪云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%90%B9%E9%9B%AA%E4%BA%91.md)
-
 
 
 
