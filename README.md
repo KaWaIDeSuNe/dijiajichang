@@ -228,6 +228,10 @@ MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge
 
 iOS：apple store搜索clashmi、搜索sing-box、搜索Shadowrocket下载（更推荐clashmi和sing-box，Shadowrocket对新协议支持不好）
 
+## 机场测试工具
+
+基于Go语言开发开源测试工具已上线，目前还在持续优化中，欢迎大家提出宝贵的建议，[NekoSpeed](https://github.com/KaWaIDeSuNe/NekoSpeed)，后续测试详情图计划由本项目生成。 
+
 ---
 
 如果您有任何需求、问题或建议，欢迎提出。
