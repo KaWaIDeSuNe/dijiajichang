@@ -49,13 +49,7 @@
 套餐价格:
 <img width="1392" alt="image" src="https://github.com/user-attachments/assets/39d94026-687c-44ab-88f6-794d4c0b40f6" />
 
-测速与解锁情况:
-![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
-![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
-
-
-线路分析:
-![2024-11-04T17-53-17-men](https://github.com/user-attachments/assets/95b6b751-abda-4736-a66a-e539aa5ad863)
+[NanoCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NanoCloud.md)
 
 ---
 
@@ -86,8 +80,7 @@
 
 
 
-线路分析:
-<img width="2424" height="4030" alt="2026-04-17T08-50-54 491-com" src="https://github.com/user-attachments/assets/2e6f8854-30b0-4749-8772-8bef22673964" />
+[牛逼机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%89%9B%E9%80%BC%E6%9C%BA%E5%9C%BA.md)
 
 ---
 
