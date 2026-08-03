@@ -233,6 +233,10 @@ iOS：apple store搜索clashmi、搜索sing-box、搜索Shadowrocket下载（更
 
 [NekoSpeed](https://github.com/KaWaIDeSuNe/NekoSpeed)，基于Go语言开发开源测试工具已上线，目前还在持续优化中，欢迎大家提出宝贵的建议，后续测试详情图计划由本项目生成。 
 
+## Coding Plan推荐 
+
+[OpenCode Go](https://opencode.ai/go?ref=BN09VR5RGA)，首月只需5美元，支持支付宝支付，非常推荐新上线的DeepSeekV4Flash和GPT5.6Luna模型性价比非常高。
+
 ---
 
 如果您有任何需求、问题或建议，欢迎提出。
