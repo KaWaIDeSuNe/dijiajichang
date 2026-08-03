@@ -235,7 +235,7 @@ iOS：apple store搜索clashmi、搜索sing-box、搜索Shadowrocket下载（更
 
 ## Coding Plan推荐 
 
-[OpenCode Go](https://opencode.ai/go?ref=BN09VR5RGA)，首月只需5美元，支持支付宝支付，非常推荐新上线的DeepSeekV4Flash和GPT5.6Luna模型性价比非常高。
+[OpenCode Go](https://opencode.ai/go?ref=TXE14SVQTV)，首月只需5美元，支持支付宝支付，非常推荐新上线的DeepSeekV4Flash和GPT5.6Luna模型性价比非常高。
 
 ---
 
