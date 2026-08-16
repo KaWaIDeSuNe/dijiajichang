@@ -166,4 +166,4 @@ If you have any requests, questions, or suggestions, please feel free to raise t
    
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/dijiajichang&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=KaWaIDeSuNe/dijiajichang&type=Date)
