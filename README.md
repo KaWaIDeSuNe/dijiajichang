@@ -33,7 +33,7 @@
 
 ---
 
-## 一、NanoCloud(1/月100G)
+## 一、NanoCloud(2/月100G)
 
 官网地址1:[点击进入](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi)
 
@@ -42,12 +42,13 @@
 
 机场特色:5GB流量免费试用
 
-主观评价:开了好些年的一家机场，直连套餐1元100G，性价比不错。（可能存在流量虚标，1元套餐可能存在2-5倍消耗）
+主观评价:开了好些年的一家机场，直连套餐2元100G，性价比不错。（可能存在流量虚标，2元套餐可能存在2-5倍消耗）
 
 使用方式: 🟢 支持官方客户端 🟢支持第三方客户端
 
 套餐价格:
-<img width="1392" alt="image" src="https://github.com/user-attachments/assets/39d94026-687c-44ab-88f6-794d4c0b40f6" />
+<img width="1533" height="459" alt="image" src="https://github.com/user-attachments/assets/afb93ac3-b2b7-41ee-8775-4de7d611f9cf" />
+
 
 [NanoCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NanoCloud.md)
 
