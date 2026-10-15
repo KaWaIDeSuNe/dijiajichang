@@ -49,7 +49,7 @@
 <img width="1533" height="459" alt="image" src="https://github.com/user-attachments/assets/afb93ac3-b2b7-41ee-8775-4de7d611f9cf" />
 
 
-[NanoCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NanoCloud.md)
+[NanoCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NanoCloud.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#nano云)
 
 ---
 
