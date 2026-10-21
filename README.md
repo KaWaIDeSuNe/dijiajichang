@@ -189,7 +189,7 @@
 套餐价格:
 <img width="630" height="845" alt="image" src="https://github.com/user-attachments/assets/9bfa301a-42cb-4052-8d40-1aaa68a6d4ac" />
 
-[良心云测速、解锁、线路分析详情]()
+[良心云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E8%89%AF%E5%BF%83%E4%BA%91.md)
 
 ---
 ## 购买指导总结
