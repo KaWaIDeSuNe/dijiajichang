@@ -1,6 +1,11 @@
 
 <h1 align="center">低价机场推荐</h1>
 
+<p align="center">
+  <a href="https://proxy.20261917.xyz/dijiajichang/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_%E5%9C%A8%E7%BA%BF%E7%BD%91%E9%A1%B5%E7%89%88-%E8%8A%82%E7%82%B9%E5%AE%9E%E6%97%B6%E7%8A%B6%E6%80%81-f48120" alt="在线网页版"></a>
+  <a href="https://proxy.20261917.xyz/probe/"><img src="https://img.shields.io/badge/%F0%9F%93%8A_%E8%8A%82%E7%82%B9%E7%8A%B6%E6%80%81-%E6%AF%8F10%E5%88%86%E9%92%9F%E8%87%AA%E5%8A%A8%E6%8E%A2%E6%B5%8B-1a7f37" alt="节点状态"></a>
+  <a href="https://proxy.20261917.xyz/guide/"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E5%8E%9F%E5%88%9B%E6%95%99%E7%A8%8B-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8E%E5%8D%8F%E8%AE%AE%E7%A7%91%E6%99%AE-0969da" alt="原创教程"></a>
+</p>
 
 🚀推荐月10以下的优质低价机场
 
@@ -10,7 +15,7 @@
 
 如果对于节点稳定性或性能上有更高的需求，请参考我的另一篇文档[性价比机场推荐](https://github.com/KaWaIDeSuNe/xingjiabijichang)
 
-📊 节点在线状态实时监控（每 10 分钟自动探测）:[节点状态页](https://proxy.20261917.xyz/probe/)
+🌐 [在线网页版(阅读体验更佳)](https://proxy.20261917.xyz/dijiajichang/) · 📊 [节点状态实时监控(每 10 分钟自动探测)](https://proxy.20261917.xyz/probe/) · 📖 [客户端下载与原创教程](https://proxy.20261917.xyz/guide/)
 
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！
@@ -80,7 +85,7 @@
 <img width="1533" height="459" alt="image" src="https://github.com/user-attachments/assets/afb93ac3-b2b7-41ee-8775-4de7d611f9cf" />
 
 
-[NanoCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NanoCloud.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#NanoCloud)
+[NanoCloud测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/NanoCloud.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#NanoCloud)
 
 ---
 
@@ -113,7 +118,7 @@
 
 
 
-[牛逼机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%89%9B%E9%80%BC%E6%9C%BA%E5%9C%BA.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#牛逼机场)
+[牛逼机场测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E7%89%9B%E9%80%BC%E6%9C%BA%E5%9C%BA.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#牛逼机场)
 
 
 
@@ -143,7 +148,7 @@
 ![image](https://github.com/user-attachments/assets/01bc6235-d283-4770-ae0c-30c153b55603)
 
 
-[淘气兔测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.md)
+[淘气兔测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E6%B7%98%E6%B0%94%E5%85%94.html)
 
 
 ---
@@ -167,7 +172,7 @@
 
 
 
-[吹雪云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%90%B9%E9%9B%AA%E4%BA%91.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#吹雪云)
+[吹雪云测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E5%90%B9%E9%9B%AA%E4%BA%91.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#吹雪云)
 
 
 ---
@@ -192,7 +197,7 @@
 - 热门节点 1Gbps
 
 
-[动力港测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#动力港)
+[动力港测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#动力港)
 
 ---
 
@@ -206,7 +211,7 @@
 ![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
 
 
-[一分机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#一分机场)
+[一分机场测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#一分机场)
 
 ---
 
@@ -220,7 +225,7 @@
 套餐价格:
 <img width="630" height="845" alt="image" src="https://github.com/user-attachments/assets/9bfa301a-42cb-4052-8d40-1aaa68a6d4ac" />
 
-[良心云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E8%89%AF%E5%BF%83%E4%BA%91.md)
+[良心云测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E8%89%AF%E5%BF%83%E4%BA%91.html)
 
 ---
 ## 购买指导总结
